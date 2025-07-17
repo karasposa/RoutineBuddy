@@ -1,0 +1,1110 @@
+﻿id,routine_id,routine_name,step_number,step_description,encouragement,age_group,dlss_domain,requires_adult
+1,1,Wash Hands,1,Turn on Water ,Way to go!,8 to 10,Personal Hygiene,No
+2,1,Wash Hands,2,Wet hands,Washing your hands is important!,8 to 10,Personal Hygiene,No
+3,1,Wash Hands,3,Apply soap,Smells good!,8 to 10,Personal Hygiene,No
+4,1,Wash Hands,4,Scrub hands,"Scrub, scrub, scrub!",8 to 10,Personal Hygiene,No
+5,1,Wash Hands,5,Rinse soap,Let's wash away those germs!,8 to 10,Personal Hygiene,No
+6,1,Wash Hands,6,Turn off Water ,Clean hands keep everyone safe!,8 to 10,Personal Hygiene,No
+7,1,Wash Hands,7,Dry hands,Nice and dry!,8 to 10,Personal Hygiene,No
+8,2,Brush Teeth,1,Pick up toothbrush,You've got this!,8 to 10,Personal Hygiene,No
+9,2,Brush Teeth,2,Apply toothpaste,Brushing your teeth keeps you healthy!,8 to 10,Personal Hygiene,No
+10,2,Brush Teeth,3,Brush top teeth,Your smile is getting brighter!,8 to 10,Personal Hygiene,No
+11,2,Brush Teeth,4,Brush bottom teeth,You're brushing like a pro!,8 to 10,Personal Hygiene,No
+12,2,Brush Teeth,5,Rinse mouth,Fresh breath and clean teeth!,8 to 10,Personal Hygiene,No
+13,2,Brush Teeth,6,Put away toothbrush,Everything in its place!,8 to 10,Personal Hygiene,No
+14,3,Bathtime,1,Get towel,Great job getting ready!,5 to 7,Personal Hygiene,Yes
+15,3,Bathtime,2,Get soap,Smells good!,5 to 7,Personal Hygiene,Yes
+16,3,Bathtime,3,Get bath sponge or washcloth,Getting ready!,5 to 7,Personal Hygiene,No
+17,3,Bathtime,4,Turn on Water ,Nice and warm!,5 to 7,Personal Hygiene,Yes
+18,3,Bathtime,5,Fill tub with warm Water ,Not too much Water !,5 to 7,Personal Hygiene,Yes
+19,3,Bathtime,6,Turn off Water ,Good job!,5 to 7,Personal Hygiene,Yes
+20,3,Bathtime,7,Get in tub,Time to get clean!,5 to 7,Personal Hygiene,Yes
+21,3,Bathtime,8,Wash body with soap,Making those bubbles work!,5 to 7,Personal Hygiene,Yes
+22,3,Bathtime,9,Rinse,Like a champ!,5 to 7,Personal Hygiene,Yes
+23,3,Bathtime,10,Dry off,So fresh and so clean!,5 to 7,Personal Hygiene,Yes
+24,3,Bathtime,11,Put on clothes,Spiffy!,5 to 7,Personal Hygiene,Yes
+25,4,Pack Backpack,1,Collect homework,Off to a great start!,5 to 7,Communication/Organization,Yes
+26,4,Pack Backpack,2,Add lunchbox,So proud of you!,5 to 7,Communication/Organization,Yes
+27,4,Pack Backpack,3,Check for supplies,You are so organized!,5 to 7,Communication/Organization,Yes
+28,4,Pack Backpack,4,Zip backpack,You're a packing pro!,5 to 7,Communication/Organization,Yes
+29,4,Pack Backpack,5,Place by door,Ready for success!,5 to 7,Communication/Organization,Yes
+30,5,Put Away Backpack,1,Get backpack,Being organized is awesome!,8 to 10,Communication/Organization,No
+31,5,Put Away Backpack,2,Unzip and remove items,Look at you go!,8 to 10,Communication/Organization,No
+32,5,Put Away Backpack,3,Put homework on desk,Everything looks so neat!,8 to 10,Communication/Organization,No
+33,5,Put Away Backpack,4,Hang backpack,Ready for success!,8 to 10,Communication/Organization,No
+34,6,Pick A Bedtime Story,1,Go to bookshelf,Books are a great way to end the day!,8 to 10,Communication/Organization,No
+35,6,Pick A Bedtime Story,2,Choose a book,Great choice!,8 to 10,Communication/Organization,No
+36,6,Pick A Bedtime Story,3,Show to parent,It's fun to read together!,8 to 10,Communication/Organization,No
+37,6,Pick A Bedtime Story,4,Snuggle in bed,Get comfy!,8 to 10,Communication/Organization,No
+38,7,Organize Desk,1,Clear off trash,Awesome job!,11 to 13,Communication/Organization,No
+39,7,Organize Desk,2,Stack books,Nice and neat!,11 to 13,Communication/Organization,No
+40,7,Organize Desk,3,Put pens in holder,Look how neat!,11 to 13,Communication/Organization,No
+41,7,Organize Desk,4,Wipe surface,Nice and neat!,11 to 13,Communication/Organization,No
+42,8,Clean Room,1,Pick up toys,Step by step!,8 to 10,Home Management,No
+43,8,Clean Room,2,Put clothes in hamper,Everything looks so neat!,8 to 10,Home Management,No
+44,8,Clean Room,3,Make bed,Tidy up!,8 to 10,Home Management,No
+45,8,Clean Room,4,Vacuum floor,Vroom vroom!,8 to 10,Home Management,No
+46,9,Put Away Clothes,1,Take Fold ed clothes,Ready to get started!,8 to 10,Communication/Organization,No
+47,9,Put Away Clothes,2,Open drawer,Way to go!,8 to 10,Communication/Organization,No
+48,9,Put Away Clothes,3,Place clothes inside,All tucked in!,8 to 10,Communication/Organization,No
+49,9,Put Away Clothes,4,Close drawer,That drawer looks so neat!,8 to 10,Communication/Organization,No
+50,10,Fold Clothes,1,Gather clean clothes,Ready to Fold !,11 to 13,Dressing,No
+51,10,Fold Clothes,2,Lay flat,That looks great!,11 to 13,Dressing,No
+52,10,Fold Clothes,3,Fold each item,You're a Fold ing superstar!,11 to 13,Dressing,No
+53,10,Fold Clothes,4,Stack neatly,Nice and neat!,11 to 13,Dressing,No
+54,11,Put Away Backpack,1,Get backpack,Being organized is awesome!,5 to 7,Communication/Organization,No
+55,11,Put Away Backpack,2,Unzip and remove items,Look at you go!,5 to 7,Communication/Organization,No
+56,11,Put Away Backpack,3,Put homework on desk,Everything looks so neat!,5 to 7,Communication/Organization,No
+57,11,Put Away Backpack,4,Hang backpack,Ready for success!,5 to 7,Communication/Organization,No
+58,12,Put Dirty Clothes In Hamper,1,Pick up clothes,High five!,11 to 13,Home Management,No
+59,12,Put Dirty Clothes In Hamper,2,Carry to hamper,Thanks for helping out!,11 to 13,Home Management,No
+60,12,Put Dirty Clothes In Hamper,3,Place inside,Your clothes will love it here!,11 to 13,Home Management,No
+61,13,Help Set The Table,1,Get plates,You are a great helper!,8 to 10,Home Management,No
+62,13,Help Set The Table,2,Place on table,Making mealitme special!,8 to 10,Home Management,No
+63,13,Help Set The Table,3,Get utensils,Forks and knives and spoons!,8 to 10,Home Management,No
+64,13,Help Set The Table,4,Place utensils on table,Thank you for being careful!,8 to 10,Home Management,No
+65,13,Help Set The Table,5,Add napkins,Almost ready to eat!,8 to 10,Home Management,No
+66,13,Help Set The Table,6,Place napkins on table,Good job!,8 to 10,Home Management,No
+67,14,Feed Cat,1,Get cat food,Taking good care of our kitty!,11 to 13,Home Management,No
+68,35,Feed Dog,1,Get dog food,Taking good care of our pup!,11 to 13,Home Management,No
+69,14,Feed Cat,2,Measure portion,Good job!,11 to 13,Home Management,No
+70,35,Feed Dog,2,Measure portion,Feeding the dog is important!,11 to 13,Home Management,No
+71,14,Feed Cat,3,Pour into bowl,Into the bowl it goes!,11 to 13,Home Management,No
+72,35,Feed Dog,3,Pour into bowl,The dog loves you for feeding him!,11 to 13,Home Management,No
+73,14,Feed Cat,4,Refill Water bowl,Cats get thirsty sometimes!,11 to 13,Home Management,No
+74,35,Feed Dog,4,Refill Water bowl,Dogs get thirsty sometimes!,11 to 13,Home Management,No
+75,14,Feed Cat,5,Put away cat food,Everything in its place!,11 to 13,Home Management,No
+76,35,Feed Dog,5,Puy away dog food,Everything in its place!,11 to 13,Home Management,No
+77,15,Make Cereal,1,Get cereal,Great choice!,11 to 13,Meal Preparation,No
+78,15,Make Cereal,2,Get bowl,Awesome job!,5 to 7,Meal Preparation,Yes
+79,15,Make Cereal,3,Get spoon,Way to go!,5 to 7,Meal Preparation,Yes
+80,15,Make Cereal,4,Pour milk,I love how careful you're being!,5 to 7,Meal Preparation,Yes
+81,15,Make Cereal,5,Add cereal,Yum!,5 to 7,Meal Preparation,Yes
+82,15,Make Cereal,6,Put away cereal,Everything in its place!,11 to 13,Meal Preparation,No
+83,16,Make Sandwich,1,Get bread,Sandwiches are yummy!,8 to 10,Meal Preparation,No
+84,16,Make Sandwich,2,Add filling,You are doing great!,8 to 10,Meal Preparation,No
+85,16,Make Sandwich,3,Add top slice,Look at the sandwich!,8 to 10,Meal Preparation,No
+86,16,Make Sandwich,4,Place on plate,That looks tasty!,8 to 10,Meal Preparation,No
+87,17,Wash Hands,1,Turn on Water ,Way to go!,8 to 10,Personal Hygiene,No
+88,17,Wash Hands,2,Wet hands,Washing your hands is important!,8 to 10,Personal Hygiene,No
+89,17,Wash Hands,3,Apply soap,Smells good!,8 to 10,Personal Hygiene,No
+90,17,Wash Hands,4,Scrub hands,"Scrub, scrub, scrub!",8 to 10,Personal Hygiene,No
+91,17,Wash Hands,5,Rinse soap,Let's wash away those germs!,8 to 10,Personal Hygiene,No
+92,17,Wash Hands,6,Turn off Water ,Clean hands keep everyone safe!,8 to 10,Personal Hygiene,No
+93,17,Wash Hands,7,Dry hands,Nice and dry!,8 to 10,Personal Hygiene,No
+94,18,Pick A Bedtime Story,1,Go to bookshelf,Books are a great way to end the day!,5 to 7,Communication/Organization,No
+95,18,Pick A Bedtime Story,2,Choose a book,Great choice!,5 to 7,Communication/Organization,No
+96,18,Pick A Bedtime Story,3,Show to parent,It's fun to read together!,5 to 7,Communication/Organization,No
+97,18,Pick A Bedtime Story,4,Snuggle in bed,Nice and cozy!,5 to 7,Communication/Organization,No
+98,19,Brush Teeth,1,Pick up toothbrush,You've got this!,11 to 13,Personal Hygiene,No
+99,19,Brush Teeth,2,Apply toothpaste,Brushing your teeth keeps you healthy!,11 to 13,Personal Hygiene,No
+100,19,Brush Teeth,3,Brush top teeth,Your smile is getting brighter!,11 to 13,Personal Hygiene,No
+101,19,Brush Teeth,4,Brush bottom teeth,You're brushing like a pro!,11 to 13,Personal Hygiene,No
+102,19,Brush Teeth,5,Rinse mouth,Fresh breath and clean teeth!,11 to 13,Personal Hygiene,No
+103,19,Brush Teeth,6,Put away toothbrush,Everything in its place!,11 to 13,Personal Hygiene,No
+104,20,Brush Teeth,1,Pick up toothbrush,You've got this!,5 to 7,Personal Hygiene,Yes
+105,20,Brush Teeth,2,Apply toothpaste,Brushing your teeth keeps you healthy!,5 to 7,Personal Hygiene,Yes
+106,20,Brush Teeth,3,Brush top teeth,Your smile is getting brighter!,5 to 7,Personal Hygiene,Yes
+107,20,Brush Teeth,4,Brush bottom teeth,You're brushing like a pro!,5 to 7,Personal Hygiene,Yes
+108,20,Brush Teeth,5,Rinse mouth,Fresh breath and clean teeth!,5 to 7,Personal Hygiene,Yes
+109,20,Brush Teeth,6,Put away toothbrush,Everything in its place!,5 to 7,Personal Hygiene,Yes
+110,21,Pack Backpack,1,Collect homework,Off to a great start!,8 to 10,Communication/Organization,No
+111,21,Pack Backpack,2,Add lunchbox,So proud of you!,8 to 10,Communication/Organization,No
+112,21,Pack Backpack,3,Check for supplies,You are so organized!,8 to 10,Communication/Organization,No
+113,21,Pack Backpack,4,Zip backpack,You're a packing pro!,8 to 10,Communication/Organization,No
+114,21,Pack Backpack,5,Place by door,Ready for success!,8 to 10,Communication/Organization,No
+115,22,Help Set The Table,1,Get plates,You are a great helper!,5 to 7,Home Management,Yes
+116,22,Help Set The Table,2,Place on table,Making mealitme special!,5 to 7,Home Management,Yes
+117,22,Help Set The Table,3,Get utensils,Forks and knives and spoons!,5 to 7,Home Management,Yes
+118,22,Help Set The Table,4,Place utensils on table,Thank you for being careful!,5 to 7,Home Management,Yes
+119,22,Help Set The Table,5,Add napkins,Almost ready to eat!,5 to 7,Home Management,Yes
+120,22,Help Set The Table,6,Place napkins on table,Good job!,5 to 7,Home Management,Yes
+121,23,Make Cereal,1,Get cereal,Great choice!,5 to 7,Meal Preparation,Yes
+122,23,Make Cereal,2,Get bowl,Awesome job!,11 to 13,Meal Preparation,No
+123,23,Make Cereal,3,Get spoon,Way to go!,11 to 13,Meal Preparation,No
+124,23,Make Cereal,4,Pour milk,I love how careful you're being!,11 to 13,Meal Preparation,No
+125,23,Make Cereal,5,Add cereal,Yum!,11 to 13,Meal Preparation,No
+126,23,Make Cereal,6,Put away cereal,Everything in its place!,5 to 7,Meal Preparation,Yes
+127,24,Organize Desk,1,Clear off trash,Awesome job!,8 to 10,Communication/Organization,No
+128,24,Organize Desk,2,Stack books,Nice and neat!,8 to 10,Communication/Organization,No
+129,24,Organize Desk,3,Put pens in holder,Look how neat!,8 to 10,Communication/Organization,No
+130,24,Organize Desk,4,Wipe surface,Nice and neat!,8 to 10,Communication/Organization,No
+131,25,Clean Room,1,Pick up toys,Step by step!,11 to 13,Home Management,No
+132,25,Clean Room,2,Put clothes in hamper,Everything looks so neat!,11 to 13,Home Management,No
+133,25,Clean Room,3,Make bed,Tidy up!,11 to 13,Home Management,No
+134,25,Clean Room,4,Vacuum floor,Vroom vroom!,11 to 13,Home Management,No
+135,26,Put Away Clothes,1,Take Fold ed clothes,Ready to get started!,11 to 13,Communication/Organization,No
+136,26,Put Away Clothes,2,Open drawer,Way to go!,11 to 13,Communication/Organization,No
+137,26,Put Away Clothes,3,Place clothes inside,All tucked in!,11 to 13,Communication/Organization,No
+138,26,Put Away Clothes,4,Close drawer,That drawer looks so neat!,11 to 13,Communication/Organization,No
+139,27,Fold Clothes,1,Gather clean clothes,Ready to Fold !,5 to 7,Dressing,Yes
+140,27,Fold Clothes,2,Lay flat,That looks great!,5 to 7,Dressing,Yes
+141,27,Fold Clothes,3,Fold each item,You're a Fold ing superstar!,5 to 7,Dressing,Yes
+142,27,Fold Clothes,4,Stack neatly,Nice and neat!,5 to 7,Dressing,Yes
+143,28,Put Dirty Clothes In Hamper,1,Pick up clothes,High five!,5 to 7,Home Management,Yes
+144,28,Put Dirty Clothes In Hamper,2,Carry to hamper,Thanks for helping out!,5 to 7,Home Management,Yes
+145,28,Put Dirty Clothes In Hamper,3,Place inside,Your clothes will love it here!,5 to 7,Home Management,Yes
+146,29,Help Set The Table,1,Get plates,You are a great helper!,11 to 13,Home Management,No
+147,29,Help Set The Table,2,Place on table,Making mealitme special!,11 to 13,Home Management,No
+148,29,Help Set The Table,3,Get utensils,Forks and knives and spoons!,11 to 13,Home Management,No
+149,29,Help Set The Table,4,Place utensils on table,Thank you for being careful!,11 to 13,Home Management,No
+150,29,Help Set The Table,5,Add napkins,Almost ready to eat!,11 to 13,Home Management,No
+151,29,Help Set The Table,6,Place napkins on table,Good job!,11 to 13,Home Management,No
+152,30,Feed Dog,1,Get dog food,Taking good care of our pup!,5 to 7,Home Management,Yes
+153,30,Feed Dog,2,Measure portion,Feeding the dog is important!,5 to 7,Home Management,Yes
+154,30,Feed Dog,3,Pour into bowl,The dog loves you for feeding him!,5 to 7,Home Management,Yes
+155,30,Feed Dog,4,Refill Water bowl,Dogs get thirsty sometimes!,5 to 7,Home Management,Yes
+156,30,Feed Dog,5,Puy away dog food,Everything in its place!,5 to 7,Home Management,Yes
+157,31,Make Sandwich,1,Get bread,Sandwiches are yummy!,5 to 7,Meal Preparation,Yes
+158,31,Make Sandwich,2,Add filling,You are doing great!,5 to 7,Meal Preparation,Yes
+159,31,Make Sandwich,3,Add top slice,Look at the sandwich!,5 to 7,Meal Preparation,Yes
+160,31,Make Sandwich,4,Place on plate,That looks tasty!,5 to 7,Meal Preparation,Yes
+161,32,Make Sandwich,1,Get bread,Sandwiches are yummy!,11 to 13,Meal Preparation,No
+162,32,Make Sandwich,2,Add filling,You are doing great!,11 to 13,Meal Preparation,No
+163,32,Make Sandwich,3,Add top slice,Look at the sandwich!,11 to 13,Meal Preparation,No
+164,32,Make Sandwich,4,Place on plate,That looks tasty!,11 to 13,Meal Preparation,No
+165,33,Brush Cat,1,Get cat brush,You're doing great!,8 to 10,Personal Hygiene,No
+166,33,Brush Cat,2,Sit near cat calmly,So gentle!,8 to 10,Home Management,No
+167,33,Brush Cat,3,Brush cat's back slowly,Nice work!,8 to 10,Home Management,No
+168,33,Brush Cat,4,Brush sides gently,Almost done!,8 to 10,Home Management,No
+169,33,Brush Cat,5,Give cat a treat,Well done!,8 to 10,Home Management,No
+170,34,Brush Cat,1,Get cat brush,You're doing great!,11 to 13,Home Management,No
+171,34,Brush Cat,2,Sit near cat calmly,So gentle!,11 to 13,Home Management,No
+172,34,Brush Cat,3,Brush cat's back slowly,Nice work!,11 to 13,Home Management,No
+173,34,Brush Cat,4,Brush sides gently,Almost done!,11 to 13,Home Management,No
+174,34,Brush Cat,5,Give cat a treat,Well done!,11 to 13,Home Management,No
+175,36,Bathtime,1,Get towel,Great job getting ready!,8 to 10,Personal Hygiene,No
+176,36,Bathtime,2,Get soap,Smells good!,8 to 10,Personal Hygiene,No
+177,36,Bathtime,3,Get bath sponge or washcloth,Getting ready!,8 to 10,Personal Hygiene,No
+178,36,Bathtime,4,Turn on Water ,Nice and warm!,8 to 10,Personal Hygiene,No
+179,36,Bathtime,5,Fill tub with warm Water ,Not too much Water !,8 to 10,Personal Hygiene,No
+180,36,Bathtime,6,Turn off Water ,Good job!,8 to 10,Personal Hygiene,No
+181,36,Bathtime,7,Get in tub,Time to get clean!,8 to 10,Personal Hygiene,No
+182,36,Bathtime,8,Wash body,Making those bubbles work!,8 to 10,Personal Hygiene,No
+183,36,Bathtime,9,Rinse,Like a champ!,8 to 10,Personal Hygiene,No
+184,36,Bathtime,10,Dry off,So fresh and so clean!,8 to 10,Personal Hygiene,No
+185,36,Bathtime,11,Put on clothes,Spiffy!,8 to 10,Personal Hygiene,No
+186,37,Pack Backpack,1,Collect homework,Off to a great start!,11 to 13,Communication/Organization,No
+187,37,Pack Backpack,2,Add lunchbox,So proud of you!,11 to 13,Communication/Organization,No
+188,37,Pack Backpack,3,Check for supplies,You are so organized!,11 to 13,Communication/Organization,No
+189,37,Pack Backpack,4,Zip backpack,You're a packing pro!,11 to 13,Communication/Organization,No
+190,37,Pack Backpack,5,Place by door,Ready for success!,11 to 13,Communication/Organization,No
+191,38,Put Away Backpack,1,Get backpack,Being organized is awesome!,11 to 13,Communication/Organization,No
+192,38,Put Away Backpack,2,Unzip and remove items,Look at you go!,11 to 13,Communication/Organization,No
+193,38,Put Away Backpack,3,Put homework on desk,Everything looks so neat!,11 to 13,Communication/Organization,No
+194,38,Put Away Backpack,4,Hang backpack,Ready for success!,11 to 13,Communication/Organization,No
+195,39,Choose Clothes For The Day,1,Check the weather,Smart thinking!,5 to 7,Dressing,Yes
+196,39,Choose Clothes For The Day,2,Pick shirt and pants,Nice choice!,5 to 7,Dressing,No
+197,39,Choose Clothes For The Day,3,Pick socks and underwear,Almost done!,5 to 7,Dressing,No
+198,39,Choose Clothes For The Day,4,Set clothes on bed,You are ready!,5 to 7,Dressing,No
+199,40,Organize Desk,1,Clear off trash,Awesome job!,5 to 7,Communication/Organization,Yes
+200,40,Organize Desk,2,Stack books,Nice and neat!,5 to 7,Communication/Organization,Yes
+201,40,Organize Desk,3,Put pens in holder,Look how neat!,5 to 7,Communication/Organization,Yes
+202,40,Organize Desk,4,Wipe surface,Nice and neat!,5 to 7,Communication/Organization,Yes
+203,41,Clean Room,1,Pick up toys,Step by step!,5 to 7,Home Management,Yes
+204,41,Clean Room,2,Put clothes in hamper,Everything looks so neat!,5 to 7,Home Management,Yes
+205,41,Clean Room,3,Make bed,Tidy up!,5 to 7,Home Management,Yes
+206,41,Clean Room,4,Vacuum floor,Vroom vroom!,5 to 7,Home Management,Yes
+207,42,Put Away Clothes,1,Take Fold ed clothes,Ready to get started!,5 to 7,Communication/Organization,Yes
+208,42,Put Away Clothes,2,Open drawer,Way to go!,5 to 7,Communication/Organization,Yes
+209,42,Put Away Clothes,3,Place clothes inside,All tucked in!,5 to 7,Communication/Organization,Yes
+210,42,Put Away Clothes,4,Close drawer,That drawer looks so neat!,5 to 7,Communication/Organization,Yes
+211,43,Choose Clothes For The Day,1,Check the weather,Smart thinking!,8 to 10,Dressing,Yes
+212,43,Choose Clothes For The Day,2,Pick shirt and pants,Nice choice!,8 to 10,Dressing,No
+213,43,Choose Clothes For The Day,3,Pick socks and underwear,Almost done!,8 to 10,Dressing,No
+214,43,Choose Clothes For The Day,4,Set clothes on bed,You are ready!,8 to 10,Dressing,No
+215,44,Choose Clothes For The Day,1,Check the weather,Smart thinking!,11 to 13,Dressing,Yes
+216,44,Choose Clothes For The Day,2,Pick shirt and pants,Nice choice!,11 to 13,Dressing,No
+217,44,Choose Clothes For The Day,3,Pick socks and underwear,Almost done!,11 to 13,Dressing,No
+218,44,Choose Clothes For The Day,4,Set clothes on bed,You are ready!,11 to 13,Dressing,No
+219,45,Catch Schoolbus,1,Get backpack ready,You're on time!,5 to 7,Community/School Related,Yes
+220,45,Catch Schoolbus,2,Put on shoes and coat,Almost there!,5 to 7,Community/School Related,Yes
+221,45,Catch Schoolbus,3,Wait at the bus stop,Good job waiting!,5 to 7,Community/School Related,Yes
+222,45,Catch Schoolbus,4,Get on the bus safely,You did it!,5 to 7,Community/School Related,Yes
+223,46,Feed Cat,1,Get cat food,Taking good care of our kitty!,8 to 10,Home Management,No
+224,46,Feed Cat,2,Measure portion,Good job!,8 to 10,Home Management,No
+225,46,Feed Cat,3,Pour into bowl,Into the bowl it goes!,8 to 10,Home Management,No
+226,46,Feed Cat,4,Refill Water bowl,Cats get thirsty sometimes!,8 to 10,Home Management,No
+227,46,Feed Cat,5,Put away cat food,Everything in its place!,8 to 10,Home Management,No
+228,49,Wash Hands,1,Turn on Water ,Way to go!,11 to 13,Personal Hygiene,No
+229,49,Wash Hands,2,Wet hands,Washing your hands is important!,11 to 13,Personal Hygiene,No
+230,49,Wash Hands,3,Apply soap,Smells good!,11 to 13,Personal Hygiene,No
+231,49,Wash Hands,4,Scrub hands,"Scrub, scrub, scrub!",11 to 13,Personal Hygiene,No
+232,49,Wash Hands,5,Rinse soap,Let's wash away those germs!,11 to 13,Personal Hygiene,No
+233,49,Wash Hands,6,Turn off Water ,Clean hands keep everyone safe!,11 to 13,Personal Hygiene,No
+234,49,Wash Hands,7,Dry hands,Nice and dry!,11 to 13,Personal Hygiene,No
+235,50,Catch Schoolbus,1,Get backpack ready,You're on time!,8 to 10,Community/School Related,Yes
+236,50,Catch Schoolbus,2,Put on shoes and coat,Almost there!,8 to 10,Community/School Related,Yes
+237,50,Catch Schoolbus,3,Wait at the bus stop,Good job waiting!,8 to 10,Community/School Related,Yes
+238,50,Catch Schoolbus,4,Get on the bus safely,You did it!,8 to 10,Community/School Related,Yes
+239,51,Catch Schoolbus,1,Get backpack ready,You're on time!,11 to 13,Community/School Related,Yes
+240,51,Catch Schoolbus,2,Put on shoes and coat,Almost there!,11 to 13,Community/School Related,Yes
+241,51,Catch Schoolbus,3,Wait at the bus stop,Good job waiting!,11 to 13,Community/School Related,Yes
+242,51,Catch Schoolbus,4,Get on the bus safely,You did it!,11 to 13,Community/School Related,Yes
+243,52,Charge Tablet/Device,1,Find charger,Great memory!,8 to 10,Communication/Organization,No
+244,52,Charge Tablet/Device,2,Plug charger into wall,Nice job!,8 to 10,Communication/Organization,No
+245,52,Charge Tablet/Device,3,Plug cable into tablet,Almost done!,8 to 10,Communication/Organization,No
+246,52,Charge Tablet/Device,4,Make sure it‚Äôs charging,All set!,8 to 10,Communication/Organization,No
+247,53,Charge Tablet/Device,1,Find charger,Great memory!,11 to 13,Communication/Organization,No
+248,53,Charge Tablet/Device,2,Plug charger into wall,Nice job!,11 to 13,Communication/Organization,No
+249,53,Charge Tablet/Device,3,Plug cable into tablet,Almost done!,11 to 13,Communication/Organization,No
+250,53,Charge Tablet/Device,4,Make sure it‚Äôs charging,All set!,11 to 13,Communication/Organization,No
+251,54,Brush Dog,1,Get the dog brush,You're getting ready!,8 to 10,Home Management,No
+252,54,Brush Dog,2,Ask the dog to sit,Great asking skills!,8 to 10,Home Management,Yes
+253,54,Brush Dog,3,Gently brush the dog's back,You're doing awesome!,8 to 10,Home Management,Yes
+254,54,Brush Dog,4,Brush behind ears and legs,Keep it gentle!,8 to 10,Home Management,Yes
+255,54,Brush Dog,5,Put the brush away,All done‚Äîgreat work!,8 to 10,Home Management,No
+256,55,Pick A Bedtime Story,1,Go to bookshelf,Books are a great way to end the day!,11 to 13,Communication/Organization,No
+257,55,Pick A Bedtime Story,2,Choose a book,Great choice!,11 to 13,Communication/Organization,No
+258,55,Pick A Bedtime Story,3,Show to parent,It's fun to read together!,11 to 13,Communication/Organization,No
+259,55,Pick A Bedtime Story,4,Snuggle in bed,Nice and cozy!,11 to 13,Communication/Organization,No
+260,56,Brush Dog,1,Get the dog brush,You're getting ready!,11 to 13,Home Management,No
+261,56,Brush Dog,2,Ask the dog to sit,Great asking skills!,11 to 13,Home Management,Yes
+262,56,Brush Dog,3,Gently brush the dog's back,You're doing awesome!,11 to 13,Home Management,Yes
+263,56,Brush Dog,4,Brush behind ears and legs,Keep it gentle!,11 to 13,Home Management,Yes
+264,56,Brush Dog,5,Put the brush away,All done‚Äîgreat work!,11 to 13,Home Management,No
+265,57,Brush Dog,1,Get the dog brush,You're getting ready!,5 to 7,Home Management,No
+266,57,Brush Dog,2,Ask the dog to sit,Great asking skills!,5 to 7,Home Management,Yes
+267,57,Brush Dog,3,Gently brush the dog's back,You're doing awesome!,5 to 7,Home Management,Yes
+268,57,Brush Dog,4,Brush behind ears and legs,Keep it gentle!,5 to 7,Home Management,Yes
+269,57,Brush Dog,5,Put the brush away,All done‚Äîgreat work!,5 to 7,Home Management,No
+270,58,Check Calendar,1,Find your calendar,Let's plan your day!,11 to 13,Communication/Organization,No
+271,58,Check Calendar,2,Look at today‚Äôs date,You're focUse d!,11 to 13,Communication/Organization,No
+272,58,Check Calendar,3,Read your schedule,Almost there!,11 to 13,Communication/Organization,No
+273,58,Check Calendar,4,Decide what to do first,You‚Äôve got a plan!,11 to 13,Communication/Organization,No
+274,59,Fold Clothes,1,Gather clean clothes,Ready to Fold !,8 to 10,Dressing,No
+275,59,Fold Clothes,2,Lay flat,That looks great!,8 to 10,Dressing,No
+276,59,Fold Clothes,3,Fold each item,You're a Fold ing superstar!,8 to 10,Dressing,No
+277,59,Fold Clothes,4,Stack neatly,Nice and neat!,8 to 10,Dressing,No
+278,60,Put Dirty Clothes In Hamper,1,Pick up clothes,High five!,8 to 10,Home Management,No
+279,60,Put Dirty Clothes In Hamper,2,Carry to hamper,Thanks for helping out!,8 to 10,Home Management,No
+280,60,Put Dirty Clothes In Hamper,3,Place inside,Your clothes will love it here!,8 to 10,Home Management,No
+281,61,Check Calendar,1,Find your calendar,Let's plan your day!,8 to 10,Communication/Organization,No
+282,61,Check Calendar,2,Look at today‚Äôs date,You're focUse d!,8 to 10,Communication/Organization,No
+283,61,Check Calendar,3,Read your schedule,Almost there!,8 to 10,Communication/Organization,No
+284,61,Check Calendar,4,Decide what to do first,You‚Äôve got a plan!,8 to 10,Communication/Organization,No
+285,62,Feed Cat,1,Get cat food,Taking good care of our kitty!,5 to 7,Home Management,Yes
+286,62,Feed Cat,2,Measure portion,Good job!,5 to 7,Home Management,Yes
+287,62,Feed Cat,3,Pour into bowl,Into the bowl it goes!,5 to 7,Home Management,Yes
+288,62,Feed Cat,4,Refill Water bowl,Cats get thirsty sometimes!,5 to 7,Home Management,Yes
+289,62,Feed Cat,5,Put away cat food,Everything in its place!,5 to 7,Home Management,Yes
+290,63,Make Cereal,1,Get cereal,Great choice!,8 to 10,Meal Preparation,No
+291,63,Make Cereal,2,Get bowl,Awesome job!,8 to 10,Meal Preparation,No
+292,63,Make Cereal,3,Get spoon,Way to go!,8 to 10,Meal Preparation,No
+293,63,Make Cereal,4,Pour milk,I love how careful you're being!,8 to 10,Meal Preparation,No
+294,63,Make Cereal,5,Add cereal,Yum!,8 to 10,Meal Preparation,No
+295,63,Make Cereal,6,Put away cereal,Everything in its place!,8 to 10,Meal Preparation,No
+296,64,Check School Fold er,1,Take out the Fold er,Great start!,8 to 10,Communication/Organization,No
+297,64,Check School Fold er,2,Open and look inside,You're being responsible!,8 to 10,Communication/Organization,No
+298,64,Check School Fold er,3,Pull out important papers,You‚Äôre doing great!,8 to 10,Communication/Organization,No
+299,64,Check School Fold er,4,Show signed papers to adult,Almost done!,8 to 10,Communication/Organization,Yes
+300,65,Clean Litterbox,1,Get gloves and scooper,Ready to go!,11 to 13,Home Management,No
+301,65,Clean Litterbox,2,Scoop out clumps into trash bag,You‚Äôre doing it!,11 to 13,Home Management,No
+302,65,Clean Litterbox,3,Add fresh litter if needed,Almost done!,11 to 13,Home Management,No
+303,65,Clean Litterbox,4,Seal and throw away trash,Good work!,11 to 13,Home Management,No
+304,65,Clean Litterbox,5,Wash hands,So fresh and so clean!,11 to 13,Home Management,No
+305,66,Clean Litterbox,1,Get gloves and scooper,Ready to go!,8 to 10,Home Management,Yes
+306,66,Clean Litterbox,2,Scoop out clumps into trash bag,You‚Äôre doing it!,8 to 10,Home Management,Yes
+307,66,Clean Litterbox,3,Add fresh litter if needed,Almost done!,8 to 10,Home Management,Yes
+308,66,Clean Litterbox,4,Seal and throw away trash,Good work!,8 to 10,Home Management,Yes
+309,66,Clean Litterbox,5,Wash hands,So fresh and so clean!,8 to 10,Home Management,No
+310,67,Check School Fold er,1,Take out the Fold er,Great start!,11 to 13,Communication/Organization,No
+311,67,Check School Fold er,2,Open and look inside,You're being responsible!,11 to 13,Communication/Organization,No
+312,67,Check School Fold er,3,Pull out important papers,You‚Äôre doing great!,11 to 13,Communication/Organization,No
+313,67,Check School Fold er,4,Show signed papers to adult,Almost done!,11 to 13,Communication/Organization,Yes
+314,67,Check School Fold er,5,Return papers to Fold er,All done!,11 to 13,Communication/Organization,No
+315,68,Bathtime,1,Get towel,Great job getting ready!,11 to 13,Personal Hygiene,No
+316,68,Bathtime,2,Turn on Water ,Nice and warm!,11 to 13,Personal Hygiene,No
+317,68,Bathtime,3,Get in tub,Time to get clean!,11 to 13,Personal Hygiene,No
+318,68,Bathtime,4,Wash body,Making those bubbles work!,11 to 13,Personal Hygiene,No
+319,68,Bathtime,5,Rinse,Like a champ!,11 to 13,Personal Hygiene,No
+320,68,Bathtime,6,Dry off,So fresh and so clean!,11 to 13,Personal Hygiene,No
+321,68,Bathtime,7,Put on clothes,Spiffy!,11 to 13,Personal Hygiene,No
+322,68,Bathtime,8,Get soap,Smells good!,11 to 13,Personal Hygiene,No
+323,68,Bathtime,9,Get bath sponge or washcloth,Getting ready!,11 to 13,Personal Hygiene,No
+324,68,Bathtime,10,Fill tub with warm Water ,Not too much Water !,11 to 13,Personal Hygiene,No
+325,68,Bathtime,11,Turn off Water ,Good job!,11 to 13,Personal Hygiene,No
+326,70,Empty Small Trash Bins,1,Take out small trash bag,You‚Äôre doing great!,11 to 13,Home Management,No
+327,70,Empty Small Trash Bins,2,Tie up the bag,Almost done!,11 to 13,Home Management,No
+328,70,Empty Small Trash Bins,3,Place in bigger trash bin,Strong and helpful!,11 to 13,Home Management,No
+329,70,Empty Small Trash Bins,4,Put in a new trash liner,Great finishing touch!,11 to 13,Home Management,No
+330,71,Empty Small Trash Bins,1,Take out small trash bag,You‚Äôre doing great!,8 to 10,Home Management,No
+331,71,Empty Small Trash Bins,2,Tie up the bag,Almost done!,8 to 10,Home Management,No
+332,71,Empty Small Trash Bins,3,Place in bigger trash bin,Strong and helpful!,8 to 10,Home Management,No
+333,71,Empty Small Trash Bins,4,Put in a new trash liner,Great finishing touch!,8 to 10,Home Management,No
+334,72,Floss,1,Get floss from cabinet,You‚Äôre taking care of you!,8 to 10,Personal Hygiene,No
+335,72,Floss,2,Cut or pull out a piece,Great start!,8 to 10,Personal Hygiene,No
+336,72,Floss,3,Gently floss between teeth,Careful and clean!,8 to 10,Personal Hygiene,Yes
+337,72,Floss,4,Throw Use d floss in trash,All done! Nice job!,8 to 10,Personal Hygiene,No
+338,72,Floss,5,Rinse mouth with Water ,Sparkly smile!,8 to 10,Personal Hygiene,No
+339,73,Floss,1,Get floss from cabinet,You‚Äôre taking care of you!,11 to 13,Personal Hygiene,No
+340,73,Floss,2,Cut or pull out a piece,Great start!,11 to 13,Personal Hygiene,No
+341,73,Floss,3,Gently floss between teeth,Careful and clean!,11 to 13,Personal Hygiene,No
+342,73,Floss,4,Throw Use d floss in trash,All done! Nice job!,11 to 13,Personal Hygiene,No
+343,73,Floss,5,Rinse mouth with Water ,Sparkly smile!,11 to 13,Personal Hygiene,No
+344,74,Put Dirty Clothes In Hamper,1,Pick up clothes,High five!,14 to 16,Home Management,No
+345,74,Put Dirty Clothes In Hamper,2,Carry to hamper,Thanks for helping out!,14 to 16,Home Management,No
+346,74,Put Dirty Clothes In Hamper,3,Place inside,Your clothes will love it here!,14 to 16,Home Management,No
+347,75,Brush Teeth,1,Pick up toothbrush,You've got this!,14 to 16,Personal Hygiene,No
+348,75,Brush Teeth,2,Apply toothpaste,Brushing your teeth keeps you healthy!,14 to 16,Personal Hygiene,No
+349,75,Brush Teeth,3,Brush top teeth,Your smile is getting brighter!,14 to 16,Personal Hygiene,No
+350,75,Brush Teeth,4,Brush bottom teeth,You're brushing like a pro!,14 to 16,Personal Hygiene,No
+351,75,Brush Teeth,5,Rinse mouth,Fresh breath and clean teeth!,14 to 16,Personal Hygiene,No
+352,75,Brush Teeth,6,Put away toothbrush,Everything in its place!,14 to 16,Personal Hygiene,No
+353,76,Clean Room,1,Pick up toys,Step by step!,14 to 16,Home Management,No
+354,76,Clean Room,2,Put clothes in hamper,Everything looks so neat!,14 to 16,Home Management,No
+355,76,Clean Room,3,Make bed,Tidy up!,14 to 16,Home Management,No
+356,76,Clean Room,4,Vacuum floor,Vroom vroom!,14 to 16,Home Management,No
+357,77,Put Away Clothes,1,Take Fold ed clothes,Ready to get started!,14 to 16,Communication/Organization,No
+358,77,Put Away Clothes,2,Open drawer,Way to go!,14 to 16,Communication/Organization,No
+359,77,Put Away Clothes,3,Place clothes inside,All tucked in!,14 to 16,Communication/Organization,No
+360,77,Put Away Clothes,4,Close drawer,That drawer looks so neat!,14 to 16,Communication/Organization,No
+361,78,Help Set The Table,1,Get plates,You are a great helper!,14 to 16,Home Management,No
+362,78,Help Set The Table,2,Place on table,Making mealitme special!,14 to 16,Home Management,No
+363,78,Help Set The Table,3,Get utensils,Forks and knives and spoons!,14 to 16,Home Management,No
+364,78,Help Set The Table,4,Place utensils on table,Thank you for being careful!,14 to 16,Home Management,No
+365,78,Help Set The Table,5,Add napkins,Almost ready to eat!,14 to 16,Home Management,No
+366,78,Help Set The Table,6,Place napkins on table,Good job!,14 to 16,Home Management,No
+367,79,Make Sandwich,1,Get bread,Sandwiches are yummy!,14 to 16,Meal Preparation,No
+368,79,Make Sandwich,2,Add filling,You are doing great!,14 to 16,Meal Preparation,No
+369,79,Make Sandwich,3,Add top slice,Look at the sandwich!,14 to 16,Meal Preparation,No
+370,79,Make Sandwich,4,Place on plate,That looks tasty!,14 to 16,Meal Preparation,No
+371,80,Pack Backpack,1,Collect homework,Off to a great start!,14 to 16,Communication/Organization,No
+372,80,Pack Backpack,2,Add lunchbox,So proud of you!,14 to 16,Communication/Organization,No
+373,80,Pack Backpack,3,Check for supplies,You are so organized!,14 to 16,Communication/Organization,No
+374,80,Pack Backpack,4,Zip backpack,You're a packing pro!,14 to 16,Communication/Organization,No
+375,80,Pack Backpack,5,Place by door,Ready for success!,14 to 16,Communication/Organization,No
+376,81,Put Away Backpack,1,Get backpack,Being organized is awesome!,14 to 16,Communication/Organization,No
+377,81,Put Away Backpack,2,Unzip and remove items,Look at you go!,14 to 16,Communication/Organization,No
+378,81,Put Away Backpack,3,Put homework on desk,Everything looks so neat!,14 to 16,Communication/Organization,No
+379,81,Put Away Backpack,4,Hang backpack,Ready for success!,14 to 16,Communication/Organization,No
+380,82,Wash Hands,1,Turn on Water ,Way to go!,14 to 16,Personal Hygiene,No
+381,82,Wash Hands,2,Wet hands,Washing your hands is important!,14 to 16,Personal Hygiene,No
+382,82,Wash Hands,3,Apply soap,Smells good!,14 to 16,Personal Hygiene,No
+383,82,Wash Hands,4,Scrub hands,"Scrub, scrub, scrub!",14 to 16,Personal Hygiene,No
+384,82,Wash Hands,5,Rinse soap,Let's wash away those germs!,14 to 16,Personal Hygiene,No
+385,82,Wash Hands,6,Turn off Water ,Clean hands keep everyone safe!,14 to 16,Personal Hygiene,No
+386,82,Wash Hands,7,Dry hands,Nice and dry!,14 to 16,Personal Hygiene,No
+387,83,Pick A Bedtime Story,1,Go to bookshelf,Books are a great way to end the day!,14 to 16,Communication/Organization,No
+388,83,Pick A Bedtime Story,2,Choose a book,Great choice!,14 to 16,Communication/Organization,No
+389,83,Pick A Bedtime Story,3,Show to parent,It's fun to read together!,14 to 16,Communication/Organization,No
+390,83,Pick A Bedtime Story,4,Snuggle in bed,Nice and cozy!,14 to 16,Communication/Organization,No
+391,84,Bathtime,1,Get towel,Great job getting ready!,14 to 16,Personal Hygiene,No
+392,84,Bathtime,2,Get soap,Smells good!,14 to 16,Personal Hygiene,No
+393,84,Bathtime,3,Get bath sponge or washcloth,Getting ready!,14 to 16,Personal Hygiene,No
+394,84,Bathtime,4,Turn on Water ,Nice and warm!,14 to 16,Personal Hygiene,No
+395,84,Bathtime,5,Fill tub with warm Water ,Not too much Water !,14 to 16,Personal Hygiene,No
+396,84,Bathtime,6,Turn off Water ,Good job!,14 to 16,Personal Hygiene,No
+397,84,Bathtime,7,Get in tub,Time to get clean!,14 to 16,Personal Hygiene,No
+398,84,Bathtime,8,Wash body,Making those bubbles work!,14 to 16,Personal Hygiene,No
+399,84,Bathtime,9,Rinse,Like a champ!,14 to 16,Personal Hygiene,No
+400,84,Bathtime,10,Dry off,So fresh and so clean!,14 to 16,Personal Hygiene,No
+401,84,Bathtime,11,Put on clothes,Spiffy!,14 to 16,Personal Hygiene,No
+402,85,Organize Desk,1,Clear off trash,Awesome job!,14 to 16,Communication/Organization,No
+403,85,Organize Desk,2,Stack books,Nice and neat!,14 to 16,Communication/Organization,No
+404,85,Organize Desk,3,Put pens in holder,Look how neat!,14 to 16,Communication/Organization,No
+405,85,Organize Desk,4,Wipe surface,Nice and neat!,14 to 16,Communication/Organization,No
+406,86,Fold Clothes,1,Gather clean clothes,Ready to Fold !,14 to 16,Dressing,No
+407,86,Fold Clothes,2,Lay flat,That looks great!,14 to 16,Dressing,No
+408,86,Fold Clothes,3,Fold each item,You're a Fold ing superstar!,14 to 16,Dressing,No
+409,86,Fold Clothes,4,Stack neatly,Nice and neat!,14 to 16,Dressing,No
+410,87,Feed Cat,1,Get cat food,Taking good care of our kitty!,14 to 16,Home Management,No
+411,87,Feed Dog,2,Get dog food,Taking good care of our pup!,14 to 16,Home Management,No
+412,87,Feed Cat,3,Measure portion,Good job!,14 to 16,Home Management,No
+413,87,Feed Dog,4,Measure portion,Feeding the dog is important!,14 to 16,Home Management,No
+414,87,Feed Cat,5,Pour into bowl,Into the bowl it goes!,14 to 16,Home Management,No
+415,87,Feed Dog,6,Pour into bowl,The dog loves you for feeding him!,14 to 16,Home Management,No
+416,87,Feed Cat,7,Refill Water bowl,Cats get thirsty sometimes!,14 to 16,Home Management,No
+417,87,Feed Dog,8,Refill Water bowl,Dogs get thirsty sometimes!,14 to 16,Home Management,No
+418,88,Feed Fish,1,Get fish food,The fish are ready to eat!,14 to 16,Home Management,No
+419,88,Feed Fish,2,Measure portion,Just the right amount!,14 to 16,Home Management,No
+420,88,Feed Fish,3,Pour into bowl,You're a great fish friend!,14 to 16,Home Management,No
+421,89,Make Cereal,1,Get cereal,Great choice!,14 to 16,Meal Preparation,No
+422,89,Make Cereal,2,Get bowl,Awesome job!,14 to 16,Meal Preparation,No
+423,89,Make Cereal,3,Get spoon,Way to go!,14 to 16,Meal Preparation,No
+424,89,Make Cereal,4,Pour milk,I love how careful you're being!,14 to 16,Meal Preparation,No
+425,89,Make Cereal,5,Add cereal,Yum!,14 to 16,Meal Preparation,No
+426,90,Brush Cat,1,Get cat brush,You're doing great!,14 to 16,Home Management,No
+427,90,Brush Cat,2,Sit near cat calmly,So gentle!,14 to 16,Home Management,No
+428,90,Brush Cat,3,Brush cat's back slowly,Nice work!,14 to 16,Home Management,No
+429,90,Brush Cat,4,Brush sides gently,Almost done!,14 to 16,Home Management,No
+430,90,Brush Cat,5,Give cat a treat,Well done!,14 to 16,Home Management,No
+431,91,Choose Clothes For The Day,1,Check the weather,Smart thinking!,14 to 16,Dressing,Yes
+432,91,Choose Clothes For The Day,2,Pick shirt and pants,Nice choice!,14 to 16,Dressing,No
+433,91,Choose Clothes For The Day,3,Pick socks and underwear,Almost done!,14 to 16,Dressing,No
+434,91,Choose Clothes For The Day,4,Set clothes on bed,You are ready!,14 to 16,Dressing,No
+435,91,Feed Fish,5,Put away fish food,Everything in its place!,14 to 16,Home Management,No
+436,91,Feed Cat,6,Put away cat food,Everything in its place!,14 to 16,Home Management,No
+437,91,Feed Dog,7,Puy away dog food,Everything in its place!,14 to 16,Home Management,No
+438,91,Make Cereal,8,Put away cereal,Everything in its place!,14 to 16,Meal Preparation,No
+439,92,Catch Schoolbus,1,Get backpack ready,You're on time!,14 to 16,Community/School Related,No
+440,92,Catch Schoolbus,2,Put on shoes and coat,Almost there!,14 to 16,Community/School Related,No
+441,92,Catch Schoolbus,3,Wait at the bus stop,Good job waiting!,14 to 16,Community/School Related,No
+442,92,Catch Schoolbus,4,Get on the bus safely,You did it!,14 to 16,Community/School Related,No
+443,93,Charge Tablet/Device,1,Find charger,Great memory!,14 to 16,Communication/Organization,No
+444,93,Charge Tablet/Device,2,Plug charger into wall,Nice job!,14 to 16,Communication/Organization,No
+445,93,Charge Tablet/Device,3,Plug cable into tablet,Almost done!,14 to 16,Communication/Organization,No
+446,93,Charge Tablet/Device,4,Make sure it‚Äôs charging,All set!,14 to 16,Communication/Organization,No
+447,94,Brush Dog,1,Get the dog brush,You're getting ready!,14 to 16,Home Management,No
+448,94,Brush Dog,2,Ask the dog to sit,Great asking skills!,14 to 16,Home Management,Yes
+449,94,Brush Dog,3,Gently brush the dog's back,You're doing awesome!,14 to 16,Home Management,Yes
+450,94,Brush Dog,4,Brush behind ears and legs,Keep it gentle!,14 to 16,Home Management,Yes
+451,94,Brush Dog,5,Put the brush away,All done‚Äîgreat work!,14 to 16,Home Management,No
+452,95,Check Calendar,1,Find your calendar,Let's plan your day!,14 to 16,Communication/Organization,No
+453,95,Check Calendar,2,Look at today‚Äôs date,You're focUse d!,14 to 16,Communication/Organization,No
+454,95,Check Calendar,3,Read your schedule,Almost there!,14 to 16,Communication/Organization,No
+455,95,Check Calendar,4,Decide what to do first,You‚Äôve got a plan!,14 to 16,Communication/Organization,No
+456,96,Check School Fold er,1,Take out the Fold er,Great start!,14 to 16,Communication/Organization,No
+457,96,Check School Fold er,2,Open and look inside,You're being responsible!,14 to 16,Communication/Organization,No
+458,96,Check School Fold er,3,Pull out important papers,You‚Äôre doing great!,14 to 16,Communication/Organization,No
+459,96,Check School Fold er,4,Show signed papers to adult,Almost done!,14 to 16,Communication/Organization,Yes
+460,96,Check School Fold er,5,Return papers to Fold er,All done!,14 to 16,Communication/Organization,No
+461,97,Clean Litterbox,1,Get gloves and scooper,Ready to go!,14 to 16,Home Management,No
+462,97,Clean Litterbox,2,Scoop out clumps into trash bag,You‚Äôre doing it!,14 to 16,Home Management,No
+463,97,Clean Litterbox,3,Add fresh litter if needed,Almost done!,14 to 16,Home Management,No
+464,97,Clean Litterbox,4,Seal and throw away trash,Good work!,14 to 16,Home Management,No
+465,97,Clean Litterbox,5,Wash hands,So fresh and so clean!,14 to 16,Home Management,No
+466,98,Do Homework,1,Find a quiet place to sit,You've got this!,14 to 16,Community/School Related,No
+467,98,Do Homework,2,Take out homework materials,You're prepared!,14 to 16,Community/School Related,No
+468,98,Do Homework,3,Read instructions carefully,Nice reading focus!,14 to 16,Community/School Related,No
+469,98,Do Homework,4,Try your best to complete work,Keep going! You're learning!,14 to 16,Community/School Related,No
+470,98,Do Homework,5,Put finished work in Fold er,You're so responsible!,14 to 16,Community/School Related,No
+471,100,Empty Small Trash Bins,1,Take out small trash bag,You‚Äôre doing great!,14 to 16,Home Management,No
+472,100,Empty Small Trash Bins,2,Tie up the bag,Almost done!,14 to 16,Home Management,No
+473,100,Empty Small Trash Bins,3,Place in bigger trash bin,Strong and helpful!,14 to 16,Home Management,No
+474,100,Empty Small Trash Bins,4,Put in a new trash liner,Great finishing touch!,14 to 16,Home Management,No
+475,101,Floss,1,Get floss from cabinet,You‚Äôre taking care of you!,14 to 16,Personal Hygiene,No
+476,101,Floss,2,Cut or pull out a piece,Great start!,14 to 16,Personal Hygiene,No
+477,101,Floss,3,Gently floss between teeth,Careful and clean!,14 to 16,Personal Hygiene,No
+478,101,Floss,4,Throw Use d floss in trash,All done! Nice job!,14 to 16,Personal Hygiene,No
+479,101,Floss,5,Rinse mouth with Water ,Sparkly smile!,14 to 16,Personal Hygiene,No
+480,102,Fold Towels,1,Lay towel flat on surface,You're on a roll!,8 to 10,Home Management,No
+481,102,Fold Towels,2,Fold towel in half,Looks neat!,8 to 10,Home Management,No
+482,102,Fold Towels,3,Fold it again into a square,Almost done!,8 to 10,Home Management,No
+483,102,Fold Towels,4,Stack neatly in pile,So organized!,8 to 10,Home Management,No
+484,103,Fold Towels,1,Lay towel flat on surface,You're on a roll!,11 to 13,Home Management,No
+485,103,Fold Towels,2,Fold towel in half,Looks neat!,11 to 13,Home Management,No
+486,103,Fold Towels,3,Fold it again into a square,Almost done!,11 to 13,Home Management,No
+487,103,Fold Towels,4,Stack neatly in pile,So organized!,11 to 13,Home Management,No
+488,104,Fold Towels,1,Lay towel flat on surface,You're on a roll!,14 to 16,Home Management,No
+489,104,Fold Towels,2,Fold towel in half,Looks neat!,14 to 16,Home Management,No
+490,104,Fold Towels,3,Fold it again into a square,Almost done!,14 to 16,Home Management,No
+491,104,Fold Towels,4,Stack neatly in pile,So organized!,14 to 16,Home Management,No
+492,105,Get Dressed,1,Choose clothes,Great choice!,5 to 7,Dressing,Yes
+493,105,Get Dressed,2,Put on underwear,Keep going!,5 to 7,Dressing,Yes
+494,105,Get Dressed,3,Put on pants/skirt,Looking good!,5 to 7,Dressing,Yes
+495,105,Get Dressed,4,Put on shirt,You're getting it!,5 to 7,Dressing,Yes
+496,105,Get Dressed,5,Put on socks and shoes,Dressed and ready!,5 to 7,Dressing,Yes
+497,106,Get Dressed,1,Choose clothes,Great choice!,8 to 10,Dressing,No
+498,106,Get Dressed,2,Put on underwear,Keep going!,8 to 10,Dressing,No
+499,106,Get Dressed,3,Put on pants/skirt,Looking good!,8 to 10,Dressing,No
+500,106,Get Dressed,4,Put on shirt,You're getting it!,8 to 10,Dressing,No
+501,106,Get Dressed,5,Put on socks and shoes,Dressed and ready!,8 to 10,Dressing,No
+502,107,Get Dressed,1,Choose clothes,Great choice!,11 to 13,Dressing,No
+503,107,Get Dressed,2,Put on underwear,Keep going!,11 to 13,Dressing,No
+504,107,Get Dressed,3,Put on pants/skirt,Looking good!,11 to 13,Dressing,No
+505,107,Get Dressed,4,Put on shirt,You're getting it!,11 to 13,Dressing,No
+506,107,Get Dressed,5,Put on socks and shoes,Dressed and ready!,11 to 13,Dressing,No
+507,108,Get Dressed,1,Choose clothes,Great choice!,14 to 16,Dressing,No
+508,108,Get Dressed,2,Put on underwear,Keep going!,14 to 16,Dressing,No
+509,108,Get Dressed,3,Put on pants/skirt,Looking good!,14 to 16,Dressing,No
+510,108,Get Dressed,4,Put on shirt,You're getting it!,14 to 16,Dressing,No
+511,108,Get Dressed,5,Put on socks and shoes,Dressed and ready!,14 to 16,Dressing,No
+512,109,Give Dog A Treat,1,Pick a treat from the container,Your Dog will be happy!,8 to 10,Home Management,No
+513,109,Give Dog A Treat,2,Call your Dog,You're a great friend!,8 to 10,Home Management,No
+514,109,Give Dog A Treat,3,Gently give treat to Dog,What a helper!,8 to 10,Home Management,No
+515,110,Give Dog A Treat,1,Pick a treat from the container,Your Dog will be happy!,11 to 13,Home Management,No
+516,110,Give Dog A Treat,2,Call your Dog,You're a great friend!,11 to 13,Home Management,No
+517,110,Give Dog A Treat,3,Gently give treat to Dog,What a helper!,11 to 13,Home Management,No
+518,111,Give Dog A Treat,1,Pick a treat from the container,Your Dog will be happy!,14 to 16,Home Management,No
+519,111,Give Dog A Treat,2,Call your Dog,You're a great friend!,14 to 16,Home Management,No
+520,111,Give Dog A Treat,3,Gently give treat to Dog,What a helper!,14 to 16,Home Management,No
+521,112,Give Cat A Treat,1,Pick a treat from the container,Your Cat will be happy!,8 to 10,Home Management,No
+522,112,Give Cat A Treat,2,Call your Cat,You're a great friend!,8 to 10,Home Management,No
+523,112,Give Cat A Treat,3,Gently give treat to Cat,What a helper!,8 to 10,Home Management,No
+524,113,Give Cat A Treat,1,Pick a treat from the container,Your Cat will be happy!,11 to 13,Home Management,No
+525,113,Give Cat A Treat,2,Call your Cat,You're a great friend!,11 to 13,Home Management,No
+526,113,Give Cat A Treat,3,Gently give treat to Cat,What a helper!,11 to 13,Home Management,No
+527,114,Give Cat A Treat,1,Pick a treat from the container,Your Cat will be happy!,14 to 16,Home Management,No
+528,114,Give Cat A Treat,2,Call your Cat,You're a great friend!,14 to 16,Home Management,No
+529,114,Give Cat A Treat,3,Gently give treat to Cat,What a helper!,14 to 16,Home Management,No
+530,115,Hang Up Clothes,1,Hold shirt by shoulders,Nice and steady!,8 to 10,Dressing,No
+531,115,Hang Up Clothes,2,Put shirt on hanger,Great coordination!,8 to 10,Dressing,No
+532,115,Hang Up Clothes,3,Place hanger on closet rod,Hung up perfectly!,8 to 10,Dressing,No
+533,116,Hang Up Clothes,1,Hold shirt by shoulders,Nice and steady!,11 to 13,Dressing,No
+534,116,Hang Up Clothes,2,Put shirt on hanger,Great coordination!,11 to 13,Dressing,No
+535,116,Hang Up Clothes,3,Place hanger on closet rod,Hung up perfectly!,11 to 13,Dressing,No
+536,117,Hang Up Clothes,1,Hold shirt by shoulders,Nice and steady!,14 to 16,Dressing,No
+537,117,Hang Up Clothes,2,Put shirt on hanger,Great coordination!,14 to 16,Dressing,No
+538,117,Hang Up Clothes,3,Place hanger on closet rod,Hung up perfectly!,14 to 16,Dressing,No
+539,118,Heat Up Food In Microwave,1,Place food in microwave container,You're doing awesome!,11 to 13,Meal Preparation,No
+540,118,Heat Up Food In Microwave,2,Place food in microwave,Looks good!,11 to 13,Meal Preparation,No
+541,118,Heat Up Food In Microwave,3,Set correct time,Nice timing!,11 to 13,Meal Preparation,No
+542,118,Heat Up Food In Microwave,4,Press Start,You did it!,11 to 13,Meal Preparation,No
+543,118,Heat Up Food In Microwave,5,Wait for beep,Be patient!,11 to 13,Meal Preparation,No
+544,118,Heat Up Food In Microwave,6,Take food out of microwave,Ready to eat!,11 to 13,Meal Preparation,No
+545,118,Heat Up Food In Microwave,7,Use oven mitts to remove food,So safe and smart!,11 to 13,Meal Preparation,No
+546,119,Heat Up Food In Microwave,1,Place food in microwave container,You're doing awesome!,14 to 16,Meal Preparation,No
+547,119,Heat Up Food In Microwave,2,Place food in microwave,Looks good!,14 to 16,Meal Preparation,No
+548,119,Heat Up Food In Microwave,3,Set correct time,Nice timing!,14 to 16,Meal Preparation,No
+549,119,Heat Up Food In Microwave,4,Press Start,You did it!,14 to 16,Meal Preparation,No
+550,119,Heat Up Food In Microwave,5,Wait for beep,Be patient!,14 to 16,Meal Preparation,No
+551,119,Heat Up Food In Microwave,6,Take food out of microwave,Ready to eat!,14 to 16,Meal Preparation,No
+552,119,Heat Up Food In Microwave,7,Use oven mitts to remove food,So safe and smart!,14 to 16,Meal Preparation,No
+553,120,Help Clear The Table,1,Pick up dirty dishes,You're so helpful!,8 to 10,Meal Preparation,No
+554,120,Help Clear The Table,2,Carry dishes to the sink,Watch your steps!,8 to 10,Meal Preparation,No
+555,120,Help Clear The Table,3,Put dishes in sink,Thank you for being careful!,8 to 10,Meal Preparation,No
+556,120,Help Clear The Table,4,Wipe down the table,Look how clean it is!,8 to 10,Meal Preparation,No
+557,121,Help Clear The Table,1,Pick up dirty dishes,You're so helpful!,11 to 13,Meal Preparation,No
+558,121,Help Clear The Table,2,Carry dishes to the sink,Watch your steps!,11 to 13,Meal Preparation,No
+559,121,Help Clear The Table,3,Put dishes in sink,Thank you for being careful!,11 to 13,Meal Preparation,No
+560,121,Help Clear The Table,4,Wipe down the table,Look how clean it is!,11 to 13,Meal Preparation,No
+561,122,Help Clear The Table,1,Pick up dirty dishes,You're so helpful!,14 to 16,Meal Preparation,No
+562,122,Help Clear The Table,2,Carry dishes to the sink,Watch your steps!,14 to 16,Meal Preparation,No
+563,122,Help Clear The Table,3,Put dishes in sink,Thank you for being careful!,14 to 16,Meal Preparation,No
+564,122,Help Clear The Table,4,Wipe down the table,Look how clean it is!,14 to 16,Meal Preparation,No
+565,123,Help Put Away Dishes,1,Take clean dishes from Dishwasher,You're doing great!,8 to 10,Home Management,No
+566,123,Help Put Away Dishes,2,Sort dishes by type,You're doing great!,8 to 10,Home Management,No
+567,123,Help Put Away Dishes,3,Dry with towel,Sparkly clean!,8 to 10,Home Management,No
+568,123,Help Put Away Dishes,4,Place dishes in cabinet,You're doing great!,8 to 10,Home Management,No
+569,123,Help Put Away Dishes,5,Close cabinet doors,You're doing great!,8 to 10,Home Management,No
+570,124,Help Put Away Dishes,1,Take clean dishes from Dishwasher,You're doing great!,11 to 13,Home Management,No
+571,124,Help Put Away Dishes,2,Sort dishes by type,You're doing great!,11 to 13,Home Management,No
+572,124,Help Put Away Dishes,3,Dry with towel,Sparkly clean!,11 to 13,Home Management,No
+573,124,Help Put Away Dishes,4,Place dishes in cabinet,You're doing great!,11 to 13,Home Management,No
+574,124,Help Put Away Dishes,5,Close cabinet doors,You're doing great!,11 to 13,Home Management,No
+575,125,Help Put Away Dishes,1,Take clean dishes from Dishwasher,You're doing great!,14 to 16,Home Management,No
+576,125,Help Put Away Dishes,2,Sort dishes by type,You're doing great!,14 to 16,Home Management,No
+577,125,Help Put Away Dishes,3,Dry with towel,Sparkly clean!,14 to 16,Home Management,No
+578,125,Help Put Away Dishes,4,Place dishes in cabinet,You're doing great!,14 to 16,Home Management,No
+579,125,Help Put Away Dishes,5,Close cabinet doors,You're doing great!,14 to 16,Home Management,No
+580,126,Help Walk Dog,1,Get leash,You're doing great!,8 to 10,Home Management,Yes
+581,126,Help Walk Dog,2,Attach leash to collar,You're doing great!,8 to 10,Home Management,Yes
+582,126,Help Walk Dog,3,Walk with dog outside,You're doing great!,8 to 10,Home Management,Yes
+583,126,Help Walk Dog,4,Return home and remove leash,You're doing great!,8 to 10,Home Management,Yes
+584,126,Help Walk Dog,5,Put leash away,Everything in its place!,8 to 10,Home Management,Yes
+585,127,Help Walk Dog,1,Get leash,You're doing great!,11 to 13,Home Management,No
+586,127,Help Walk Dog,2,Attach leash to collar,You're doing great!,11 to 13,Home Management,No
+587,127,Help Walk Dog,3,Walk with dog outside,You're doing great!,11 to 13,Home Management,No
+588,127,Help Walk Dog,4,Return home and remove leash,You're doing great!,11 to 13,Home Management,No
+589,127,Help Walk Dog,5,Put leash away,Everything in its place!,11 to 13,Home Management,No
+590,128,Help Walk Dog,1,Get leash,You're doing great!,14 to 16,Home Management,No
+591,128,Help Walk Dog,2,Attach leash to collar,You're doing great!,14 to 16,Home Management,No
+592,128,Help Walk Dog,3,Walk with dog outside,You're doing great!,14 to 16,Home Management,No
+593,128,Help Walk Dog,4,Return home and remove leash,You're doing great!,14 to 16,Home Management,No
+594,128,Help Walk Dog,5,Put leash away,Everything in its place!,14 to 16,Home Management,No
+595,129,Help Wash Dishes,1,Scrape leftover food into garbage,You're doing great!,8 to 10,Home Management,No
+596,129,Help Wash Dishes,2,Get dish soap,Nice job!,8 to 10,Home Management,No
+597,129,Help Wash Dishes,3,Get dish sponge,This will come in handy!,8 to 10,Home Management,No
+598,129,Help Wash Dishes,4,Get dish towel,You're almost ready!,8 to 10,Home Management,No
+599,129,Help Wash Dishes,5,Fill sink with hot Water and dish soap,Not too hot!,8 to 10,Home Management,No
+600,129,Help Wash Dishes,6,Apply soap to sponge,You're doing great!,8 to 10,Home Management,No
+601,129,Help Wash Dishes,7,Scrub dish,Scrub a dub dub!,8 to 10,Home Management,No
+602,129,Help Wash Dishes,8,Rinse and dry dish,Nice and sparkly!,8 to 10,Home Management,No
+603,130,Help Wash Dishes,1,Scrape leftover food into garbage,You're doing great!,11 to 13,Home Management,No
+604,130,Help Wash Dishes,2,Get dish soap,You're doing great!,11 to 13,Home Management,No
+605,130,Help Wash Dishes,3,Get dish sponge,Nice job!,11 to 13,Home Management,No
+606,130,Help Wash Dishes,4,Get dish towel,You're almost ready!,11 to 13,Home Management,No
+607,130,Help Wash Dishes,5,Fill sink with hot Water and dish soap,Not too hot!,11 to 13,Home Management,No
+608,130,Help Wash Dishes,6,Apply soap to sponge,This is a very important step!,11 to 13,Home Management,No
+609,130,Help Wash Dishes,7,Scrub dish,You're doing great!,11 to 13,Home Management,No
+610,130,Help Wash Dishes,8,Rinse and dry dish,Scrub a dub dub!,11 to 13,Home Management,No
+611,131,Help Wash Dishes,1,Scrape leftover food into garbage,Nice and sparkly!,14 to 16,Home Management,No
+612,131,Help Wash Dishes,2,Get dish soap,You're doing great!,14 to 16,Home Management,No
+613,131,Help Wash Dishes,3,Get dish sponge,This will come in handy!,14 to 16,Home Management,No
+614,131,Help Wash Dishes,4,Get dish towel,Good attention to detail!,14 to 16,Home Management,No
+615,131,Help Wash Dishes,5,Fill sink with hot Water and dish soap,Not too hot!,14 to 16,Home Management,No
+616,131,Help Wash Dishes,6,Apply soap to sponge,This is a very important step!,14 to 16,Home Management,No
+617,131,Help Wash Dishes,7,Scrub dish,You're doing great!,14 to 16,Home Management,No
+618,131,Help Wash Dishes,8,Rinse and dry dish,Scrub a dub dub!,14 to 16,Home Management,No
+619,69,Help Wash Laundry,1,Get laundry detergent,You're doing great!,8 to 10,Home Management,No
+620,69,Help Wash Laundry,2,Collect dirty laundry,Thank you for helping the clothes get clean!,8 to 10,Home Management,No
+621,69,Help Wash Laundry,3,Sort laundry by color,This is a very important step!,8 to 10,Home Management,No
+622,69,Help Wash Laundry,4,Put clothes in washer,You're doing great!,8 to 10,Home Management,No
+623,69,Help Wash Laundry,5,Measure detergent,Good job measuring!,8 to 10,Home Management,No
+624,69,Help Wash Laundry,6,Add detergent,You're doing great!,8 to 10,Home Management,No
+625,69,Help Wash Laundry,7,Start the washer,You're doing great!,8 to 10,Home Management,No
+626,69,Help Wash Laundry,8,Put laundry detergent away,Everything in its place!,8 to 10,Home Management,No
+627,99,Help Wash Laundry,1,Get laundry detergent,You're doing great!,11 to 13,Home Management,No
+628,99,Help Wash Laundry,2,Collect dirty laundry,Thank you for helping the clothes get clean!,11 to 13,Home Management,No
+629,99,Help Wash Laundry,3,Sort laundry by color,This is a very important step!,11 to 13,Home Management,No
+630,99,Help Wash Laundry,4,Put clothes in washer,You're doing great!,11 to 13,Home Management,No
+631,99,Help Wash Laundry,5,Measure detergent,Good job measuring!,11 to 13,Home Management,No
+632,99,Help Wash Laundry,6,Add detergent,You're doing great!,11 to 13,Home Management,No
+633,99,Help Wash Laundry,7,Start the washer,You're doing great!,11 to 13,Home Management,No
+634,99,Help Wash Laundry,8,Put laundry detergent away,Everything in its place!,11 to 13,Home Management,No
+635,134,Help Wash Laundry,1,Get laundry detergent,You're doing great!,14 to 16,Home Management,No
+636,134,Help Wash Laundry,2,Collect dirty laundry,Thank you for helping the clothes get clean!,14 to 16,Home Management,No
+637,134,Help Wash Laundry,3,Sort laundry by color,This is a very important step!,14 to 16,Home Management,No
+638,134,Help Wash Laundry,4,Put clothes in washer,You're doing great!,14 to 16,Home Management,No
+639,134,Help Wash Laundry,5,Measure detergent,Good job measuring!,14 to 16,Home Management,No
+640,134,Help Wash Laundry,6,Add detergent,You're doing great!,14 to 16,Home Management,No
+641,134,Help Wash Laundry,7,Start the washer,You're doing great!,14 to 16,Home Management,No
+642,134,Help Wash Laundry,8,Put laundry detergent away,Everything in its place!,14 to 16,Home Management,No
+643,135,Help Dry Laundry,1,Get fabric softener,So responsible!,8 to 10,Home Management,No
+644,135,Help Dry Laundry,2,Remove lint tray,Thank you for helping the clothes get clean!,8 to 10,Home Management,Yes
+645,135,Help Dry Laundry,3,Clear lint tray,This is a very important step!,8 to 10,Home Management,No
+646,135,Help Dry Laundry,4,Put lint tray in dryer,Everything in its place!,8 to 10,Home Management,Yes
+647,135,Help Dry Laundry,5,Put lint in trash can,You're very good at this!,8 to 10,Home Management,No
+648,135,Help Dry Laundry,6,Gather clothes from washing machine,Ready to dry!,8 to 10,Home Management,No
+649,135,Help Dry Laundry,7,Add clothes to dryer,Wet clothes love it here!,8 to 10,Home Management,No
+650,135,Help Dry Laundry,8,Select dryer setting,Almost done!,8 to 10,Home Management,No
+651,135,Help Dry Laundry,9,Add fabric softener to dyer,Smells good!,8 to 10,Home Management,No
+652,135,Help Dry Laundry,10,Turn on dryer,Awesome job!,8 to 10,Home Management,No
+653,136,Help Dry Laundry,1,Get fabric softener,So responsible!,11 to 13,Home Management,No
+654,136,Help Dry Laundry,2,Remove lint tray,Thank you for helping the clothes get clean!,11 to 13,Home Management,Yes
+655,136,Help Dry Laundry,3,Clear lint tray,This is a very important step!,11 to 13,Home Management,No
+656,136,Help Dry Laundry,4,Put lint tray in dryer,Everything in its place!,11 to 13,Home Management,Yes
+657,136,Help Dry Laundry,5,Put lint in trash can,You're very good at this!,11 to 13,Home Management,No
+658,136,Help Dry Laundry,6,Gather clothes from washing machine,Ready to dry!,11 to 13,Home Management,No
+659,136,Help Dry Laundry,7,Add clothes to dryer,Wet clothes love it here!,11 to 13,Home Management,No
+660,136,Help Dry Laundry,8,Select dryer setting,Almost done!,11 to 13,Home Management,No
+661,136,Help Dry Laundry,9,Add fabric softener to dyer,Smells good!,11 to 13,Home Management,No
+662,136,Help Dry Laundry,10,Turn on dryer,Awesome job!,11 to 13,Home Management,No
+663,137,Help Dry Laundry,1,Get fabric softener,So responsible!,14 to 16,Home Management,No
+664,137,Help Dry Laundry,2,Remove lint tray,Thank you for helping the clothes get clean!,14 to 16,Home Management,No
+665,137,Help Dry Laundry,3,Clear lint tray,This is a very important step!,14 to 16,Home Management,No
+666,137,Help Dry Laundry,4,Put lint tray in dryer,Everything in its place!,14 to 16,Home Management,No
+667,137,Help Dry Laundry,5,Put lint in trash can,You're very good at this!,14 to 16,Home Management,No
+668,137,Help Dry Laundry,6,Gather clothes from washing machine,Ready to dry!,14 to 16,Home Management,No
+669,137,Help Dry Laundry,7,Add clothes to dryer,Wet clothes love it here!,14 to 16,Home Management,No
+670,137,Help Dry Laundry,8,Select dryer setting,Almost done!,14 to 16,Home Management,No
+671,137,Help Dry Laundry,9,Add fabric softener to dyer,Smells good!,14 to 16,Home Management,No
+672,137,Help Dry Laundry,10,Turn on dryer,Awesome job!,14 to 16,Home Management,No
+673,138,Load Dishwasher,1,Get Dishwasher detergent,Let's make those dishes sparkle!,8 to 10,Home Management,No
+674,138,Load Dishwasher,2,Scrape food off plates,You're doing great!,8 to 10,Home Management,No
+675,138,Load Dishwasher,3,Place dishes in racks,You're doing great!,8 to 10,Home Management,No
+676,138,Load Dishwasher,4,Add Dishwasher detergent,You're doing great!,8 to 10,Home Management,No
+677,138,Load Dishwasher,5,Close Dishwasher,You're doing great!,8 to 10,Home Management,No
+678,138,Load Dishwasher,6,Start Dishwasher,What a super helper!,8 to 10,Home Management,No
+679,139,Load Dishwasher,1,Get Dishwasher detergent,Let's make those dishes sparkle!,11 to 13,Home Management,No
+680,139,Load Dishwasher,2,Scrape food off plates,You're doing great!,11 to 13,Home Management,No
+681,139,Load Dishwasher,3,Place dishes in racks,You're doing great!,11 to 13,Home Management,No
+682,139,Load Dishwasher,4,Add Dishwasher detergent,You're doing great!,11 to 13,Home Management,No
+683,139,Load Dishwasher,5,Close Dishwasher,You're doing great!,11 to 13,Home Management,No
+684,139,Load Dishwasher,6,Start Dishwasher,What a super helper!,11 to 13,Home Management,No
+685,140,Load Dishwasher,1,Get Dishwasher detergent,Let's make those dishes sparkle!,14 to 16,Home Management,No
+686,140,Load Dishwasher,2,Scrape food off plates,You're doing great!,14 to 16,Home Management,No
+687,140,Load Dishwasher,3,Place dishes in racks,You're doing great!,14 to 16,Home Management,No
+688,140,Load Dishwasher,4,Add Dishwasher detergent,You're doing great!,14 to 16,Home Management,No
+689,140,Load Dishwasher,5,Close Dishwasher,You're doing great!,14 to 16,Home Management,No
+690,140,Load Dishwasher,6,Start Dishwasher,What a super helper!,14 to 16,Home Management,No
+691,141,Make Bed,1,Pull up sheets,You're doing great!,5 to 7,Home Management,No
+692,141,Make Bed,2,Straighten blanket,You're doing great!,5 to 7,Home Management,No
+693,141,Make Bed,3,Place pillows neatly,You're doing great!,5 to 7,Home Management,No
+694,141,Make Bed,4,Smooth out wrinkles,You're doing great!,5 to 7,Home Management,No
+695,142,Make Bed,1,Pull up sheets,You're doing great!,8 to 10,Home Management,No
+696,142,Make Bed,2,Straighten blanket,You're doing great!,8 to 10,Home Management,No
+697,142,Make Bed,3,Place pillows neatly,You're doing great!,8 to 10,Home Management,No
+698,142,Make Bed,4,Smooth out wrinkles,You're doing great!,8 to 10,Home Management,No
+699,143,Make Bed,1,Pull up sheets,You're doing great!,11 to 13,Home Management,No
+700,143,Make Bed,2,Straighten blanket,You're doing great!,11 to 13,Home Management,No
+701,143,Make Bed,3,Place pillows neatly,You're doing great!,11 to 13,Home Management,No
+702,143,Make Bed,4,Smooth out wrinkles,You're doing great!,11 to 13,Home Management,No
+703,144,Make Bed,1,Pull up sheets,You're doing great!,14 to 16,Home Management,No
+704,144,Make Bed,2,Straighten blanket,You're doing great!,14 to 16,Home Management,No
+705,144,Make Bed,3,Place pillows neatly,You're doing great!,14 to 16,Home Management,No
+706,144,Make Bed,4,Smooth out wrinkles,You're doing great!,14 to 16,Home Management,No
+707,145,Pack Lunchbox,1,Choose food items,You're doing great!,5 to 7,Meal Preparation,Yes
+708,145,Pack Lunchbox,2,Cloose drink,Excellent choice!,5 to 7,Meal Preparation,Yes
+709,145,Pack Lunchbox,3,Get utensils,We might need a spoon or a fork!,5 to 7,Meal Preparation,Yes
+710,145,Pack Lunchbox,4,Get napkins,You're doing great!,5 to 7,Meal Preparation,Yes
+711,145,Pack Lunchbox,5,Get food containers,So proud of you!,5 to 7,Meal Preparation,Yes
+712,145,Pack Lunchbox,6,Assemble sandwich or main dish,That look tasty!,5 to 7,Meal Preparation,Yes
+713,145,Pack Lunchbox,7,Place food in container,You're doing great!,5 to 7,Meal Preparation,Yes
+714,145,Pack Lunchbox,8,Close container lid,You're doing great!,5 to 7,Meal Preparation,Yes
+715,145,Pack Lunchbox,9,Put everything in lunchbox,Great packing!,5 to 7,Meal Preparation,Yes
+716,145,Pack Lunchbox,10,Close lunchbox,Ready for tomorrow!,5 to 7,Meal Preparation,Yes
+717,145,Pack Lunchbox,11,Put lunchbox in fridge,So responsible!,5 to 7,Meal Preparation,Yes
+718,146,Pack Lunchbox,1,Choose food items,You're doing great!,8 to 10,Meal Preparation,No
+719,146,Pack Lunchbox,2,Cloose drink,Excellent choice!,8 to 10,Meal Preparation,No
+720,146,Pack Lunchbox,3,Get utensils,We might need a spoon or a fork!,8 to 10,Meal Preparation,No
+721,146,Pack Lunchbox,4,Get napkins,You're doing great!,8 to 10,Meal Preparation,No
+722,146,Pack Lunchbox,5,Get food containers,So proud of you!,8 to 10,Meal Preparation,No
+723,146,Pack Lunchbox,6,Assemble sandwich or main dish,That look tasty!,8 to 10,Meal Preparation,No
+724,146,Pack Lunchbox,7,Place food in container,You're doing great!,8 to 10,Meal Preparation,No
+725,146,Pack Lunchbox,8,Close container lid,You're doing great!,8 to 10,Meal Preparation,No
+726,146,Pack Lunchbox,9,Put everything in lunchbox,Great packing!,8 to 10,Meal Preparation,No
+727,146,Pack Lunchbox,10,Close lunchbox,You're a lunch-packing pro!,8 to 10,Meal Preparation,No
+728,146,Pack Lunchbox,11,Put lunchbox in fridge,So responsible!,8 to 10,Meal Preparation,No
+729,147,Pack Lunchbox,1,Choose food items,You're doing great!,11 to 13,Meal Preparation,No
+730,147,Pack Lunchbox,2,Cloose drink,Excellent choice!,11 to 13,Meal Preparation,No
+731,147,Pack Lunchbox,3,Get utensils,We might need a spoon or a fork!,11 to 13,Meal Preparation,No
+732,147,Pack Lunchbox,4,Get napkins,You're doing great!,11 to 13,Meal Preparation,No
+733,147,Pack Lunchbox,5,Get food containers,So proud of you!,11 to 13,Meal Preparation,No
+734,147,Pack Lunchbox,6,Assemble sandwich or main dish,That look tasty!,11 to 13,Meal Preparation,No
+735,147,Pack Lunchbox,7,Place food in container,You're doing great!,11 to 13,Meal Preparation,No
+736,147,Pack Lunchbox,8,Close container lid,You're doing great!,11 to 13,Meal Preparation,No
+737,147,Pack Lunchbox,9,Put everything in lunchbox,Great packing!,11 to 13,Meal Preparation,No
+738,147,Pack Lunchbox,10,Close lunchbox,You're a lunch-packing pro!,11 to 13,Meal Preparation,No
+739,147,Pack Lunchbox,11,Put lunchbox in fridge,Ready for tomorrow!,11 to 13,Meal Preparation,No
+740,148,Pack Lunchbox,1,Choose food items,You're doing great!,14 to 16,Meal Preparation,No
+741,148,Pack Lunchbox,2,Cloose drink,Excellent choice!,14 to 16,Meal Preparation,No
+742,148,Pack Lunchbox,3,Get utensils,We might need a spoon or a fork!,14 to 16,Meal Preparation,No
+743,148,Pack Lunchbox,4,Get napkins,You're doing great!,14 to 16,Meal Preparation,No
+744,148,Pack Lunchbox,5,Get food containers,So proud of you!,14 to 16,Meal Preparation,No
+745,148,Pack Lunchbox,6,Assemble sandwich or main dish,That look tasty!,14 to 16,Meal Preparation,No
+746,148,Pack Lunchbox,7,Place food in container,You're doing great!,14 to 16,Meal Preparation,No
+747,148,Pack Lunchbox,8,Close container lid,You're doing great!,14 to 16,Meal Preparation,No
+748,148,Pack Lunchbox,9,Put everything in lunchbox,Great packing!,14 to 16,Meal Preparation,No
+749,148,Pack Lunchbox,10,Close lunchbox,You're a lunch-packing pro!,14 to 16,Meal Preparation,No
+750,148,Pack Lunchbox,11,Put lunchbox in fridge,So responsible!,14 to 16,Meal Preparation,No
+751,149,Match Socks,1,Lay out socks,You're doing great!,5 to 7,Dressing,Yes
+752,149,Match Socks,2,Find matching colors,You're doing great!,5 to 7,Dressing,Yes
+753,149,Match Socks,3,Pair socks together,You're doing great!,5 to 7,Dressing,Yes
+754,149,Match Socks,4,Fold or roll pairs,You're doing great!,5 to 7,Dressing,Yes
+755,150,Match Socks,1,Lay out socks,You're doing great!,8 to 10,Dressing,No
+756,150,Match Socks,2,Find matching colors,You're doing great!,8 to 10,Dressing,No
+757,150,Match Socks,3,Pair socks together,You're doing great!,8 to 10,Dressing,No
+758,150,Match Socks,4,Fold or roll pairs,You're doing great!,8 to 10,Dressing,No
+759,151,Match Socks,1,Lay out socks,You're doing great!,11 to 13,Dressing,No
+760,151,Match Socks,2,Find matching colors,You're doing great!,11 to 13,Dressing,No
+761,151,Match Socks,3,Pair socks together,You're doing great!,11 to 13,Dressing,No
+762,151,Match Socks,4,Fold or roll pairs,You're doing great!,11 to 13,Dressing,No
+763,152,Match Socks,1,Lay out socks,You're doing great!,14 to 16,Dressing,No
+764,152,Match Socks,2,Find matching colors,You're doing great!,14 to 16,Dressing,No
+765,152,Match Socks,3,Pair socks together,You're doing great!,14 to 16,Dressing,No
+766,152,Match Socks,4,Fold or roll pairs,You're doing great!,14 to 16,Dressing,No
+767,153,Mop Floor,1,Get floor cleaner,Let's make the floor shine!,11 to 13,Home Management,No
+768,153,Mop Floor,2,Get Mop ,Clean floors are important!,11 to 13,Home Management,No
+769,153,Mop Floor,3,Get Mop bucket,We will need this later!,11 to 13,Home Management,No
+770,153,Mop Floor,4,Fill Mop bucket with cleaner,You're doing great!,11 to 13,Home Management,No
+771,153,Mop Floor,5,Add Water to Mop bucket,Thank you for being careful!,11 to 13,Home Management,No
+772,153,Mop Floor,6,Dip Mop in Mop bucket,You're doing great!,11 to 13,Home Management,No
+773,153,Mop Floor,7,Wring Mop ,The floor is cleaner thanks to you!,11 to 13,Home Management,No
+774,153,Mop Floor,8,Mop one area at a time,Clean and shine!,11 to 13,Home Management,No
+775,153,Mop Floor,9,Empty Mop bucket,You're a cleaning champ!,11 to 13,Home Management,No
+776,153,Mop Floor,10,Rinse Mop bucket,You're doing great!,11 to 13,Home Management,No
+777,153,Mop Floor,11,Put Mop bucket away,Everything in its place!,11 to 13,Home Management,No
+778,153,Mop Floor,12,Put Mop away,Nice and neat!,11 to 13,Home Management,No
+779,153,Mop Floor,13,Put floor cleaner away,Great job!,11 to 13,Home Management,No
+780,154,Mop Floor,1,Get floor cleaner,Let's make the floor shine!,14 to 16,Home Management,No
+781,154,Mop Floor,2,Get Mop ,Clean floors are important!,14 to 16,Home Management,No
+782,154,Mop Floor,3,Get Mop bucket,We will need this later!,14 to 16,Home Management,No
+783,154,Mop Floor,4,Fill Mop bucket with cleaner,You're doing great!,14 to 16,Home Management,No
+784,154,Mop Floor,5,Add Water to Mop bucket,Thank you for being careful!,14 to 16,Home Management,No
+785,154,Mop Floor,6,Dip Mop in Mop bucket,You're doing great!,14 to 16,Home Management,No
+786,154,Mop Floor,7,Wring Mop ,The floor is cleaner thanks to you!,14 to 16,Home Management,No
+787,154,Mop Floor,8,Mop one area at a time,Clean and shine!,14 to 16,Home Management,No
+788,154,Mop Floor,9,Empty Mop bucket,You're a cleaning champ!,14 to 16,Home Management,No
+789,154,Mop Floor,10,Rinse Mop bucket,You're doing great!,14 to 16,Home Management,No
+790,154,Mop Floor,11,Put Mop bucket away,Everything in its place!,14 to 16,Home Management,No
+791,154,Mop Floor,12,Put Mop away,Nice and neat!,14 to 16,Home Management,No
+792,154,Mop Floor,13,Put floor cleaner away,Great job!,14 to 16,Home Management,No
+793,155,Pack Gym Clothes/Sports Gear,1,Find gym clothes,You're doing great!,8 to 10,Communication/Organization,No
+794,155,Pack Gym Clothes/Sports Gear,2,Fold and pack in bag,You're doing great!,8 to 10,Communication/Organization,No
+795,155,Pack Gym Clothes/Sports Gear,3,Add any gear or shoes,You're doing great!,8 to 10,Communication/Organization,No
+796,155,Pack Gym Clothes/Sports Gear,4,Zip bag closed,You're doing great!,8 to 10,Communication/Organization,No
+797,156,Pack Gym Clothes/Sports Gear,1,Find gym clothes,You're doing great!,11 to 13,Communication/Organization,No
+798,156,Pack Gym Clothes/Sports Gear,2,Fold and pack in bag,You're doing great!,11 to 13,Communication/Organization,No
+799,156,Pack Gym Clothes/Sports Gear,3,Add any gear or shoes,You're doing great!,11 to 13,Communication/Organization,No
+800,156,Pack Gym Clothes/Sports Gear,4,Zip bag closed,You're doing great!,11 to 13,Communication/Organization,No
+801,157,Pack Gym Clothes/Sports Gear,1,Find gym clothes,You're doing great!,14 to 16,Communication/Organization,No
+802,157,Pack Gym Clothes/Sports Gear,2,Fold and pack in bag,You're doing great!,14 to 16,Communication/Organization,No
+803,157,Pack Gym Clothes/Sports Gear,3,Add any gear or shoes,You're doing great!,14 to 16,Communication/Organization,No
+804,157,Pack Gym Clothes/Sports Gear,4,Zip bag closed,You're doing great!,14 to 16,Communication/Organization,No
+805,158,Pour Juice,1,Get cup,You're doing great!,8 to 10,Meal Preparation,No
+806,158,Pour Juice,2,Get juice,Look at you!,8 to 10,Meal Preparation,No
+807,158,Pour Juice,3,Open juice bottle,You're doing great!,8 to 10,Meal Preparation,No
+808,158,Pour Juice,4,Pour juice carefully,Careful!,8 to 10,Meal Preparation,No
+809,158,Pour Juice,5,Close bottle and enjoy,Good job!,8 to 10,Meal Preparation,No
+810,158,Pour Juice,6,Put juice away,Everything in its place!,8 to 10,Meal Preparation,No
+811,159,Pour Juice,1,Get cup,You're doing great!,11 to 13,Meal Preparation,No
+812,159,Pour Juice,2,Get juice,Look at you!,11 to 13,Meal Preparation,No
+813,159,Pour Juice,3,Open juice bottle,You're doing great!,11 to 13,Meal Preparation,No
+814,159,Pour Juice,4,Pour juice carefully,Careful!,11 to 13,Meal Preparation,No
+815,159,Pour Juice,5,Close bottle and enjoy,Good job!,11 to 13,Meal Preparation,No
+816,159,Pour Juice,6,Put juice away,Everything in its place!,11 to 13,Meal Preparation,No
+817,160,Pour Juice,1,Get cup,You're doing great!,14 to 16,Meal Preparation,No
+818,160,Pour Juice,2,Get juice,Look at you!,14 to 16,Meal Preparation,No
+819,160,Pour Juice,3,Open juice bottle,You're doing great!,14 to 16,Meal Preparation,No
+820,160,Pour Juice,4,Pour juice carefully,Careful!,14 to 16,Meal Preparation,No
+821,160,Pour Juice,5,Close bottle and enjoy,Good job!,14 to 16,Meal Preparation,No
+822,160,Pour Juice,6,Put juice away,Everything in its place!,14 to 16,Meal Preparation,No
+823,161,Pour Milk,1,Get cup,You're doing great!,8 to 10,Meal Preparation,No
+824,161,Pour Milk,2,Take milk from fridge,Look at you!,8 to 10,Meal Preparation,No
+825,161,Pour Milk,3,Open milk container,You're doing great!,8 to 10,Meal Preparation,No
+826,161,Pour Milk,4,Pour carefully into cup,Careful!,8 to 10,Meal Preparation,No
+827,161,Pour Milk,5,Close milk container,Good job!,8 to 10,Meal Preparation,No
+828,161,Pour Milk,6,Return milk to fridge,Everything in its place!,8 to 10,Meal Preparation,No
+829,162,Pour Milk,1,Get cup,You're doing great!,11 to 13,Meal Preparation,No
+830,162,Pour Milk,2,Take milk from fridge,Look at you!,11 to 13,Meal Preparation,No
+831,162,Pour Milk,3,Open milk container,You're doing great!,11 to 13,Meal Preparation,No
+832,162,Pour Milk,4,Pour carefully into cup,Careful!,11 to 13,Meal Preparation,No
+833,162,Pour Milk,5,Close milk container,Good job!,11 to 13,Meal Preparation,No
+834,162,Pour Milk,6,Return milk to fridge,Everything in its place!,11 to 13,Meal Preparation,No
+835,163,Pour Milk,1,Get cup,You're doing great!,14 to 16,Meal Preparation,No
+836,163,Pour Milk,2,Take milk from fridge,Look at you!,14 to 16,Meal Preparation,No
+837,163,Pour Milk,3,Open milk container,You're doing great!,14 to 16,Meal Preparation,No
+838,163,Pour Milk,4,Pour carefully into cup,Careful!,14 to 16,Meal Preparation,No
+839,163,Pour Milk,5,Close milk container,Good job!,14 to 16,Meal Preparation,No
+840,163,Pour Milk,6,Return milk to fridge,Everything in its place!,14 to 16,Meal Preparation,No
+841,164,Pour Water ,1,Get cup,You're doing great!,8 to 10,Meal Preparation,No
+842,164,Pour Water ,2,Turn on tap or Water filter,You're doing great!,8 to 10,Meal Preparation,No
+843,164,Pour Water ,3,Fill cup,You're doing great!,8 to 10,Meal Preparation,No
+844,164,Pour Water ,4,Turn off Water ,You're doing great!,8 to 10,Meal Preparation,No
+845,165,Pour Water ,1,Get cup,You're doing great!,11 to 13,Meal Preparation,No
+846,165,Pour Water ,2,Turn on tap or Water filter,You're doing great!,11 to 13,Meal Preparation,No
+847,165,Pour Water ,3,Fill cup,You're doing great!,11 to 13,Meal Preparation,No
+848,165,Pour Water ,4,Turn off Water ,You're doing great!,11 to 13,Meal Preparation,No
+849,166,Pour Water ,1,Get cup,You're doing great!,14 to 16,Meal Preparation,No
+850,166,Pour Water ,2,Turn on tap or Water filter,You're doing great!,14 to 16,Meal Preparation,No
+851,166,Pour Water ,3,Fill cup,You're doing great!,14 to 16,Meal Preparation,No
+852,166,Pour Water ,4,Turn off Water ,You're doing great!,14 to 16,Meal Preparation,No
+853,167,Put Shoes Away,1,Find matching shoes,You're doing great!,5 to 7,Home Management,Yes
+854,167,Put Shoes Away,2,Pick up shoes,You're doing great!,5 to 7,Home Management,Yes
+855,167,Put Shoes Away,3,Carry to shoe rack or closet,You're doing great!,5 to 7,Home Management,Yes
+856,167,Put Shoes Away,4,Place neatly on rack or in closet,You're doing great!,5 to 7,Home Management,Yes
+857,168,Put Shoes Away,1,Find matching shoes,You're doing great!,8 to 10,Home Management,No
+858,168,Put Shoes Away,2,Pick up shoes,You're doing great!,8 to 10,Home Management,No
+859,168,Put Shoes Away,3,Carry to shoe rack or closet,You're doing great!,8 to 10,Home Management,No
+860,168,Put Shoes Away,4,Place neatly on rack or in closet,You're doing great!,8 to 10,Home Management,No
+861,169,Put Shoes Away,1,Find matching shoes,You're doing great!,11 to 13,Home Management,No
+862,169,Put Shoes Away,2,Pick up shoes,You're doing great!,11 to 13,Home Management,No
+863,169,Put Shoes Away,3,Carry to shoe rack or closet,You're doing great!,11 to 13,Home Management,No
+864,169,Put Shoes Away,4,Place neatly on rack or in closet,You're doing great!,11 to 13,Home Management,No
+865,170,Put Shoes Away,1,Find matching shoes,You're doing great!,14 to 16,Home Management,No
+866,170,Put Shoes Away,2,Pick up shoes,You're doing great!,14 to 16,Home Management,No
+867,170,Put Shoes Away,3,Carry to shoe rack or closet,You're doing great!,14 to 16,Home Management,No
+868,170,Put Shoes Away,4,Place neatly on rack or in closet,You're doing great!,14 to 16,Home Management,No
+869,171,Put Signed Papers In Backpack,1,Get signed paper,You're doing great!,8 to 10,Communication/Organization,No
+870,171,Put Signed Papers In Backpack,2,Open backpack,You're doing great!,8 to 10,Communication/Organization,No
+871,171,Put Signed Papers In Backpack,3,Put paper in Fold er,You're doing great!,8 to 10,Communication/Organization,No
+872,171,Put Signed Papers In Backpack,4,Zip up backpack,You're doing great!,8 to 10,Communication/Organization,No
+873,172,Put Signed Papers In Backpack,1,Get signed paper,You're doing great!,11 to 13,Communication/Organization,No
+874,172,Put Signed Papers In Backpack,2,Open backpack,You're doing great!,11 to 13,Communication/Organization,No
+875,172,Put Signed Papers In Backpack,3,Put paper in Fold er,You're doing great!,11 to 13,Communication/Organization,No
+876,172,Put Signed Papers In Backpack,4,Zip up backpack,You're doing great!,11 to 13,Communication/Organization,No
+877,173,Put Signed Papers In Backpack,1,Get signed paper,You're doing great!,14 to 16,Communication/Organization,No
+878,173,Put Signed Papers In Backpack,2,Open backpack,You're doing great!,14 to 16,Communication/Organization,No
+879,173,Put Signed Papers In Backpack,3,Put paper in Fold er,You're doing great!,14 to 16,Communication/Organization,No
+880,173,Put Signed Papers In Backpack,4,Zip up backpack,You're doing great!,14 to 16,Communication/Organization,No
+881,174,Refill Water Bottle,1,Get bottle,Great start!,14 to 16,Meal Preparation,No
+882,174,Refill Water Bottle,2,Open bottle,You're doing great!,8 to 10,Meal Preparation,No
+883,174,Refill Water Bottle,3,Fill with Water ,You're doing great!,8 to 10,Meal Preparation,No
+884,174,Refill Water Bottle,4,Close lid tightly,You're doing great!,8 to 10,Meal Preparation,No
+885,174,Refill Water Bottle,5,Put in backpack or bag,You're doing great!,8 to 10,Meal Preparation,No
+886,175,Refill Water Bottle,1,Get bottle,Great start!,8 to 10,Meal Preparation,No
+887,175,Refill Water Bottle,2,Open bottle,You're doing great!,11 to 13,Meal Preparation,No
+888,175,Refill Water Bottle,3,Fill with Water ,You're doing great!,11 to 13,Meal Preparation,No
+889,175,Refill Water Bottle,4,Close lid tightly,You're doing great!,11 to 13,Meal Preparation,No
+890,175,Refill Water Bottle,5,Put in backpack or bag,You're doing great!,11 to 13,Meal Preparation,No
+891,176,Refill Water Bottle,1,Get bottle,Great start!,11 to 13,Meal Preparation,No
+892,176,Refill Water Bottle,2,Open bottle,You're doing great!,14 to 16,Meal Preparation,No
+893,176,Refill Water Bottle,3,Fill with Water ,You're doing great!,14 to 16,Meal Preparation,No
+894,176,Refill Water Bottle,4,Close lid tightly,You're doing great!,14 to 16,Meal Preparation,No
+895,176,Refill Water Bottle,5,Put in backpack or bag,You're doing great!,14 to 16,Meal Preparation,No
+896,177,Set Alarm For Morning,1,Open clock app,You're doing great!,11 to 13,Communication/Organization,No
+897,177,Set Alarm For Morning,2,Choose wake-up time,You're doing great!,11 to 13,Communication/Organization,No
+898,177,Set Alarm For Morning,3,Set alarm,You're doing great!,11 to 13,Communication/Organization,No
+899,177,Set Alarm For Morning,4,Place device nearby,You're doing great!,11 to 13,Communication/Organization,No
+900,178,Set Alarm For Morning,1,Open clock app,You're doing great!,14 to 16,Communication/Organization,No
+901,178,Set Alarm For Morning,2,Choose wake-up time,You're doing great!,14 to 16,Communication/Organization,No
+902,178,Set Alarm For Morning,3,Set alarm,You're doing great!,14 to 16,Communication/Organization,No
+903,178,Set Alarm For Morning,4,Place device nearby,You're doing great!,14 to 16,Communication/Organization,No
+904,179,Sort Laundry By Color,1,Separate darks and lights,You're doing great!,11 to 13,Home Management,No
+905,179,Sort Laundry By Color,2,Check for special fabrics,You're doing great!,11 to 13,Home Management,No
+906,179,Sort Laundry By Color,3,Make piles,You're doing great!,11 to 13,Home Management,No
+907,179,Sort Laundry By Color,4,Start wash with one pile,You're doing great!,11 to 13,Home Management,No
+908,180,Sort Laundry By Color,1,Separate darks and lights,You're doing great!,14 to 16,Home Management,No
+909,180,Sort Laundry By Color,2,Check for special fabrics,You're doing great!,14 to 16,Home Management,No
+910,180,Sort Laundry By Color,3,Make piles,You're doing great!,14 to 16,Home Management,No
+911,180,Sort Laundry By Color,4,Start wash with one pile,You're doing great!,14 to 16,Home Management,No
+912,189,Sort Recycling,1,Gather recyclables,You're doing great!,11 to 13,Home Management,No
+913,189,Sort Recycling,2,"Separate paper, plastic, metal",You're doing great!,11 to 13,Home Management,No
+914,189,Sort Recycling,3,Place in correct bins,You're doing great!,11 to 13,Home Management,No
+915,189,Sort Recycling,4,Take bins outside if needed,You're doing great!,11 to 13,Home Management,No
+916,190,Sort Recycling,1,Gather recyclables,You're doing great!,14 to 16,Home Management,No
+917,190,Sort Recycling,2,"Separate paper, plastic, metal",You're doing great!,14 to 16,Home Management,No
+918,190,Sort Recycling,3,Place in correct bins,You're doing great!,14 to 16,Home Management,No
+919,190,Sort Recycling,4,Take bins outside if needed,You're doing great!,14 to 16,Home Management,No
+920,191,Sweep Floor,1,Get broom and dustpan,You're doing great!,11 to 13,Home Management,No
+921,191,Sweep Floor,2,Sweep into small piles,You're doing great!,11 to 13,Home Management,No
+922,191,Sweep Floor,3,Collect in dustpan,You're doing great!,11 to 13,Home Management,No
+923,191,Sweep Floor,4,Empty into trash,You're doing great!,11 to 13,Home Management,No
+924,192,Sweep Floor,1,Get broom and dustpan,You're doing great!,14 to 16,Home Management,No
+925,192,Sweep Floor,2,Sweep into small piles,You're doing great!,14 to 16,Home Management,No
+926,192,Sweep Floor,3,Collect in dustpan,You're doing great!,14 to 16,Home Management,No
+927,192,Sweep Floor,4,Empty into trash,You're doing great!,14 to 16,Home Management,No
+928,193,Take Out Trash,1,Tie trash bag,You're doing great!,11 to 13,Home Management,No
+929,193,Take Out Trash,2,Carry outside,You're doing great!,11 to 13,Home Management,No
+930,193,Take Out Trash,3,Place in bin,You're doing great!,11 to 13,Home Management,No
+931,193,Take Out Trash,4,Replace liner in trash can,You're doing great!,11 to 13,Home Management,No
+932,194,Take Out Trash,1,Tie trash bag,You're doing great!,14 to 16,Home Management,No
+933,194,Take Out Trash,2,Carry outside,You're doing great!,14 to 16,Home Management,No
+934,194,Take Out Trash,3,Place in bin,You're doing great!,14 to 16,Home Management,No
+935,194,Take Out Trash,4,Replace liner in trash can,You're doing great!,14 to 16,Home Management,No
+936,195,Unload Dishwasher,1,Open Dishwasher,You're doing great!,11 to 13,Home Management,No
+937,195,Unload Dishwasher,2,Take out clean dishes,You're doing great!,11 to 13,Home Management,No
+938,195,Unload Dishwasher,3,Sort and store in cabinets,You're doing great!,11 to 13,Home Management,No
+939,195,Unload Dishwasher,4,Close Dishwasher,You're doing great!,11 to 13,Home Management,No
+940,196,Unload Dishwasher,1,Open Dishwasher,You're doing great!,14 to 16,Home Management,No
+941,196,Unload Dishwasher,2,Take out clean dishes,You're doing great!,14 to 16,Home Management,No
+942,196,Unload Dishwasher,3,Sort and store in cabinets,You're doing great!,14 to 16,Home Management,No
+943,196,Unload Dishwasher,4,Close Dishwasher,You're doing great!,14 to 16,Home Management,No
+944,197,Use Deodorant,1,Remove cap,You're doing great!,11 to 13,Personal Hygiene,No
+945,197,Use Deodorant,2,Apply under arms,You're doing great!,11 to 13,Personal Hygiene,No
+946,197,Use Deodorant,3,Replace cap,You're doing great!,11 to 13,Personal Hygiene,No
+947,197,Use Deodorant,4,Put deodorant away,You're doing great!,11 to 13,Personal Hygiene,No
+948,198,Use Deodorant,1,Remove cap,You're doing great!,14 to 16,Personal Hygiene,No
+949,198,Use Deodorant,2,Apply under arms,You're doing great!,14 to 16,Personal Hygiene,No
+950,198,Use Deodorant,3,Replace cap,You're doing great!,14 to 16,Personal Hygiene,No
+951,198,Use Deodorant,4,Put deodorant away,You're doing great!,14 to 16,Personal Hygiene,No
+952,199,Vacuum Floor,1,Get Vacuum ,Clean floors are important!,11 to 13,Home Management,No
+953,199,Vacuum Floor,2,Plug in Vacuum ,You're doing great!,11 to 13,Home Management,No
+954,199,Vacuum Floor,3,Turn it on,You're doing great!,11 to 13,Home Management,No
+955,199,Vacuum Floor,4,Vacuum room slowly,You're doing great!,11 to 13,Home Management,No
+956,199,Vacuum Floor,5,Turn off Vacuum ,Safety first!,11 to 13,Home Management,No
+957,199,Vacuum Floor,6,Unplug Vacuum ,You're doing great!,11 to 13,Home Management,No
+958,199,Vacuum Floor,7,Empty Vacuum canister,You are doing great!,11 to 13,Home Management,No
+959,199,Vacuum Floor,8,Put Vacuum away,Everything in its place!,11 to 13,Home Management,No
+960,200,Vacuum Floor,1,Get Vacuum ,Clean floors are important!,14 to 16,Home Management,No
+961,200,Vacuum Floor,2,Plug in Vacuum ,You're doing great!,14 to 16,Home Management,No
+962,200,Vacuum Floor,3,Turn it on,You're doing great!,14 to 16,Home Management,No
+963,200,Vacuum Floor,4,Vacuum room slowly,You're doing great!,14 to 16,Home Management,No
+964,200,Vacuum Floor,5,Turn off Vacuum ,Safety first!,14 to 16,Home Management,No
+965,200,Vacuum Floor,6,Unplug Vacuum ,You're doing great!,14 to 16,Home Management,No
+966,200,Vacuum Floor,7,Empty Vacuum canister,You are doing great!,14 to 16,Home Management,No
+967,200,Vacuum Floor,8,Put Vacuum away,Everything in its place!,14 to 16,Home Management,No
+968,201,Wash Face,1,Get towel,Great start!,11 to 13,Personal Hygiene,No
+969,201,Wash Face,2,Get face cleanser,A clean face keeps us healthy!,11 to 13,Personal Hygiene,No
+970,201,Wash Face,3,Wet hands and face,You're doing great!,11 to 13,Personal Hygiene,No
+971,201,Wash Face,4,Apply cleanser to face,You're doing great!,11 to 13,Personal Hygiene,No
+972,201,Wash Face,5,Rinse face with Water ,You're doing great!,11 to 13,Personal Hygiene,No
+973,201,Wash Face,6,Dry face with towel,You're doing great!,11 to 13,Personal Hygiene,No
+974,201,Wash Face,7,Put face cleanser away,Everything in its place!,11 to 13,Personal Hygiene,No
+975,202,Wash Face,1,Get towel,Great start!,14 to 16,Personal Hygiene,No
+976,202,Wash Face,2,Get face cleanser,A clean face keeps us healthy!,14 to 16,Personal Hygiene,No
+977,202,Wash Face,3,Wet hands and face,You're doing great!,14 to 16,Personal Hygiene,No
+978,202,Wash Face,4,Apply cleanser to face,You're doing great!,14 to 16,Personal Hygiene,No
+979,202,Wash Face,5,Rinse face with Water ,You're doing great!,14 to 16,Personal Hygiene,No
+980,202,Wash Face,6,Dry face with towel,You're doing great!,14 to 16,Personal Hygiene,No
+981,202,Wash Face,7,Put face cleanser away,Everything in its place!,14 to 16,Personal Hygiene,No
+982,203,Water Plants,1,Get Water ing can,Plants love Water !,11 to 13,Home Management,No
+983,203,Water Plants,2,Fill Water ing can,You're doing great!,11 to 13,Home Management,No
+984,203,Water Plants,3,Pour at base of plants,You're doing great!,11 to 13,Home Management,No
+985,203,Water Plants,4,Check soil moisture,You're doing great!,11 to 13,Home Management,No
+986,203,Water Plants,5,Put Water ing can away,You're doing great!,11 to 13,Home Management,No
+987,204,Water Plants,1,Get Water ing can,Plants love Water !,14 to 16,Home Management,No
+988,204,Water Plants,2,Fill Water ing can,You're doing great!,14 to 16,Home Management,No
+989,204,Water Plants,3,Pour at base of plants,You're doing great!,14 to 16,Home Management,No
+990,204,Water Plants,4,Check soil moisture,You're doing great!,14 to 16,Home Management,No
+991,204,Water Plants,5,Put Water ing can away,You're doing great!,14 to 16,Home Management,No
+992,205,Give Dog A Bath,1,Get dog shampoo,Thank you for helping!,14 to 16,Home Management,No
+993,205,Give Dog A Bath,2,Get dog towels,These will come in handy later,14 to 16,Home Management,No
+994,205,Give Dog A Bath,3,Fill tub with warm Water ,Not too hot!,14 to 16,Home Management,No
+995,205,Give Dog A Bath,4,Get dog in tub,You're doing great!,14 to 16,Home Management,No
+996,205,Give Dog A Bath,5,Wet dog with Water ,You're doing great!,14 to 16,Home Management,No
+997,205,Give Dog A Bath,6,Apply dog shampoo,You're doing great!,14 to 16,Home Management,No
+998,205,Give Dog A Bath,7,Massage shampoo into dog fur,Gently now!,14 to 16,Home Management,No
+999,205,Give Dog A Bath,8,Rinse and dry dog,So fresh and so clean,14 to 16,Home Management,No
+1000,206,Iron Clothes,1,Get Iron ,This will come in handy!,14 to 16,Dressing,No
+1001,206,Iron Clothes,2,Get Iron ing board,We will need this too!,14 to 16,Dressing,No
+1002,206,Iron Clothes,3,Get clothes,Almost ready!,14 to 16,Dressing,No
+1003,206,Iron Clothes,4,Set up Iron ing board,You're doing great!,14 to 16,Dressing,No
+1004,206,Iron Clothes,5,Plug in Iron ,You're doing great!,14 to 16,Dressing,No
+1005,206,Iron Clothes,6,Turn on Iron ,Not too hot!,14 to 16,Dressing,No
+1006,206,Iron Clothes,7,Place clothes on Iron ing board,Ready to get those wrinkles out!,14 to 16,Dressing,No
+1007,206,Iron Clothes,8,Iron one section at a time,You're doing great!,14 to 16,Dressing,No
+1008,206,Iron Clothes,9,Turn off Iron ,You're doing great!,14 to 16,Dressing,No
+1009,206,Iron Clothes,10,Unplug Iron ,Safety first!,14 to 16,Dressing,No
+1010,206,Iron Clothes,11,Wait for Iron to cool down,Good job being patient!,14 to 16,Dressing,No
+1011,206,Iron Clothes,12,Hang up clothes,Nice and neat!,14 to 16,Dressing,No
+1012,206,Iron Clothes,13,Put Iron away,Everything in its place!,14 to 16,Dressing,No
+1013,206,Iron Clothes,14,Put Iron ing board away,Everything in its place!,14 to 16,Dressing,No
+1014,207,Take A Shower,1,Turn on the Water ,You're doing great!,11 to 13,Personal Hygiene,No
+1015,207,Take A Shower,2,Adjust Water temperature,Nice work!,11 to 13,Personal Hygiene,No
+1016,207,Take A Shower,3,Step into the shower,You‚Äôre so brave!,11 to 13,Personal Hygiene,No
+1017,207,Take A Shower,4,Wet your body,Feels nice and warm!,11 to 13,Personal Hygiene,No
+1018,207,Take A Shower,5,Apply soap to body,Smells good!,11 to 13,Personal Hygiene,No
+1019,207,Take A Shower,6,Scrub body,Scrub-a-dub-dub!,11 to 13,Personal Hygiene,No
+1020,207,Take A Shower,7,Rinse soap off,All clean now!,11 to 13,Personal Hygiene,No
+1021,207,Take A Shower,8,Turn off Water ,Nice job finishing up!,11 to 13,Personal Hygiene,No
+1022,207,Take A Shower,9,Dry off with towel,All fresh and clean!,11 to 13,Personal Hygiene,No
+1023,207,Take A Shower,10,Put on clean clothes,Looking great!,11 to 13,Personal Hygiene,No
+1024,208,Take A Shower,1,Turn on the Water ,You're doing great!,14 to 16,Personal Hygiene,No
+1025,208,Take A Shower,2,Adjust Water temperature,Nice work!,14 to 16,Personal Hygiene,No
+1026,208,Take A Shower,3,Step into the shower,You‚Äôre so brave!,14 to 16,Personal Hygiene,No
+1027,208,Take A Shower,4,Wet your body,Feels nice and warm!,14 to 16,Personal Hygiene,No
+1028,208,Take A Shower,5,Apply soap to body,Smells good!,14 to 16,Personal Hygiene,No
+1029,208,Take A Shower,6,Scrub body,Scrub-a-dub-dub!,14 to 16,Personal Hygiene,No
+1030,208,Take A Shower,7,Rinse soap off,All clean now!,14 to 16,Personal Hygiene,No
+1031,208,Take A Shower,8,Turn off Water ,Nice job finishing up!,14 to 16,Personal Hygiene,No
+1032,208,Take A Shower,9,Dry off with towel,All fresh and clean!,14 to 16,Personal Hygiene,No
+1033,208,Take A Shower,10,Put on clean clothes,Looking great!,14 to 16,Personal Hygiene,No
+1034,209,Wash Car,1,Get a bucket,You're doing great!,14 to 16,Home Management,No
+1035,209,Wash Car,2,Get car soap,Way to go!,14 to 16,Home Management,No
+1036,209,Wash Car,3,Get sponge or soft cloth,Getting ready!,14 to 16,Home Management,No
+1037,209,Wash Car,4,Get car towel,We will need this later!,14 to 16,Home Management,No
+1038,209,Wash Car,5,Uncoil hose,Thank you for helping!,14 to 16,Home Management,No
+1039,209,Wash Car,6,Turn on Water ,Great attention to detail!,14 to 16,Home Management,No
+1040,209,Wash Car,7,Fill bucket with Water ,Nice job following steps!,14 to 16,Home Management,No
+1041,209,Wash Car,8,Add car soap to the Water ,Keep it up!,14 to 16,Home Management,No
+1042,209,Wash Car,9,Rinse the car with a hose,You‚Äôre on track!,14 to 16,Home Management,No
+1043,209,Wash Car,10,Dip the sponge in soapy Water ,Look at that shine!,14 to 16,Home Management,No
+1044,209,Wash Car,11,Scrub the car in small sections,Almost done!,14 to 16,Home Management,No
+1045,209,Wash Car,12,Rinse off the soap with clean Water ,Nice and dry!,14 to 16,Home Management,No
+1046,209,Wash Car,13,Wipe the car dry with a towel or chamois,You did it!,14 to 16,Home Management,No
+1047,209,Wash Car,14,Put away all supplies,Everything in its place!,14 to 16,Home Management,No
+1048,210,Clean Bathroom,1,Get cleaning gloves,Getting ready!,14 to 16,Home Management,No
+1049,210,Clean Bathroom,2,Get cleaning sponge or cloth,A clean bathroom is important,14 to 16,Home Management,No
+1050,210,Clean Bathroom,3,Get bathroom cleaner,This will help us clean!,14 to 16,Home Management,No
+1051,210,Clean Bathroom,4,Get toilet bowl brush,You're a great helper!,14 to 16,Home Management,No
+1052,210,Clean Bathroom,5,Put on cleaning gloves,Ready to clean!,14 to 16,Home Management,No
+1053,210,Clean Bathroom,6,"Spray cleaner on sink, toilet, and tub",You‚Äôre doing awesome!,14 to 16,Home Management,No
+1054,210,Clean Bathroom,7,Let the cleaner sit for a few minutes,Patience pays off!,14 to 16,Home Management,No
+1055,210,Clean Bathroom,8,Wipe the sink and faucet,Sink is sparkling!,14 to 16,Home Management,No
+1056,210,Clean Bathroom,9,Scrub the toilet bowl,You're strong!,14 to 16,Home Management,No
+1057,210,Clean Bathroom,10,Wipe the outside of the toilet,Nice and clean!,14 to 16,Home Management,No
+1058,210,Clean Bathroom,11,Scrub the bathtub or shower walls,Almost done!,14 to 16,Home Management,No
+1059,210,Clean Bathroom,12,Wipe down counters and handles,Good attention to detail!,14 to 16,Home Management,No
+1060,210,Clean Bathroom,13,Replace toilet paper if needed,That‚Äôs thoughtful!,14 to 16,Home Management,No
+1061,210,Clean Bathroom,14,Take out bathroom trash,Great responsibility!,14 to 16,Home Management,No
+1062,210,Clean Bathroom,15,Sweep and Mop the bathroom floor,Fantastic work!,14 to 16,Home Management,No
+1063,210,Clean Bathroom,16,Wash your hands,All done!,14 to 16,Home Management,No
+1064,210,Clean Bathroom,17,Put all supplies away,Everything in its place!,14 to 16,Home Management,No
+1065,211,Rake Leaves,1,Get a Rake and leaf bags,You‚Äôre ready to go!,14 to 16,Home Management,No
+1066,211,Rake Leaves,2,Rake leaves into small piles,Nice and neat!,14 to 16,Home Management,No
+1067,211,Rake Leaves,3,Pick up leaves with hands or scoop,You're doing great!,14 to 16,Home Management,Yes
+1068,211,Rake Leaves,4,Put leaves in a large bag,Keep it up!,14 to 16,Home Management,Yes
+1069,211,Rake Leaves,5,Tie the leaf bag,Almost done!,14 to 16,Home Management,Yes
+1070,211,Rake Leaves,6,Place bag by the curb or compost bin,So responsible!,14 to 16,Home Management,Yes
+1071,211,Rake Leaves,7,Put away Rake and tools,Task complete!,14 to 16,Home Management,No
+1072,212,Water Lawn,1,Check if the lawn needs Water ,Smart thinking!,14 to 16,Home Management,No
+1073,212,Water Lawn,2,Attach hose or set up sprinkler,You‚Äôre setting it up well!,14 to 16,Home Management,Yes
+1074,212,Water Lawn,3,Turn on the Water ,Let it flow!,14 to 16,Home Management,Yes
+1075,212,Water Lawn,4,Water each area for 10‚Äì15 minutes,You're so patient!,14 to 16,Home Management,Yes
+1076,212,Water Lawn,5,Move sprinkler to next area if needed,Great job moving forward!,14 to 16,Home Management,Yes
+1077,212,Water Lawn,6,Turn off the Water ,All done!,14 to 16,Home Management,Yes
+1078,212,Water Lawn,7,Coil and put away the hose,So tidy!,14 to 16,Home Management,No
+1079,213,Catch Schoolbus,1,Get backpack ready,You're on time!,14 to 16,Community/School Related,No
+1080,213,Catch Schoolbus,2,Put on shoes and coat,Almost there!,14 to 16,Community/School Related,No
+1081,213,Catch Schoolbus,3,Wait at the bus stop,Good job waiting!,14 to 16,Community/School Related,No
+1082,213,Catch Schoolbus,4,Get on the bus safely,You did it!,14 to 16,Community/School Related,No
+1083,214,Feed Fish,1,Get fish food,The fish are ready to eat!,11 to 13,Home Management,No
+1084,214,Feed Fish,2,Measure portion,Just the right amount!,11 to 13,Home Management,No
+1085,214,Feed Fish,3,Pour into bowl,You're a great fish friend!,11 to 13,Home Management,No
+1086,214,Feed Fish,4,Put away fish food,Everything in its place!,11 to 13,Home Management,No
+1087,215,Feed Dog,1,Get dog food,Taking good care of our pup!,8 to 10,Home Management,No
+1088,215,Feed Dog,2,Measure portion,Feeding the dog is important!,8 to 10,Home Management,No
+1089,215,Feed Dog,3,Pour into bowl,The dog loves you for feeding him!,8 to 10,Home Management,No
+1090,215,Feed Dog,4,Refill Water bowl,Dogs get thirsty sometimes!,8 to 10,Home Management,No
+1091,215,Feed Dog,5,Puy away dog food,Everything in its place!,8 to 10,Home Management,No
+1092,216,Feed Fish,1,Get fish food,The fish are ready to eat!,8 to 10,Home Management,No
+1093,216,Feed Fish,2,Measure portion,Just the right amount!,8 to 10,Home Management,No
+1094,216,Feed Fish,3,Pour into bowl,You're a great fish friend!,8 to 10,Home Management,No
+1095,216,Feed Fish,4,Put away fish food,Everything in its place!,8 to 10,Home Management,No
+1096,217,Feed Fish,1,Get fish food,The fish are ready to eat!,5 to 7,Home Management,Yes
+1097,217,Feed Fish,2,Measure portion,Just the right amount!,5 to 7,Home Management,Yes
+1098,217,Feed Fish,3,Pour into bowl,You're a great fish friend!,5 to 7,Home Management,Yes
+1099,217,Feed Fish,4,Put away fish food,Everything in its place!,5 to 7,Home Management,Yes
+1100,47,Do Homework,1,Find a quiet place to sit,You've got this!,11 to 13,Community/School Related,No
+1101,48,Do Homework,1,Find a quiet place to sit,You've got this!,8 to 10,Community/School Related,No
+1102,47,Do Homework,2,Take out homework materials,You're prepared!,11 to 13,Community/School Related,No
+1103,48,Do Homework,2,Take out homework materials,You're prepared!,8 to 10,Community/School Related,No
+1104,47,Do Homework,3,Read instructions carefully,Nice reading focus!,11 to 13,Community/School Related,No
+1105,48,Do Homework,3,Read instructions carefully,Nice reading focus!,8 to 10,Community/School Related,No
+1106,47,Do Homework,4,Try your best to complete work,Keep going! You're learning!,11 to 13,Community/School Related,No
+1107,48,Do Homework,4,Try your best to complete work,Keep going! You're learning!,8 to 10,Community/School Related,No
+1108,47,Do Homework,5,Put finished work in Fold er,You're so responsible!,11 to 13,Community/School Related,No
+1109,48,Do Homework,5,Put finished work in Fold er,You're so responsible!,8 to 10,Community/School Related,No
